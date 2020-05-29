@@ -1,4 +1,4 @@
-"Name","id","Last Updated","Phone","Website/Social Media","Category","Latitude","Longitude","Address","Notes","Sub-Category","Created time","Hours","Status","Pickup Offered","Delivery Offered","Source","Email","Special Accommodation Hours","SNAP/EBT","WIC","Delivery/Pickup Notes","Donate"
+"Name","id","Last Updated","Phone","Website/Social Media","Category","Latitude","Longitude","Address","Notes","Sub-Category","Created time","Status","Hours","Pickup Offered","Delivery Offered","Delivery/Pickup Notes","Source","Email","Special Accommodation Hours","SNAP/EBT","WIC","Donate"
 "Mosaic Roosevelt Island Church",630,"2020-04-28T04:00:00.000Z","(347) 674-8659","http://mosaicri.nyc/","Community Services",40.761804,-73.950135,"543 Main St, New York","Food supplies drive donations Visit [www.facebook.com/dansadlier][1] More info [www.instagram.com/mosaicwqnyc/][2]
 
   [1]: http://www.facebook.com/dansadlier
@@ -42,19 +42,19 @@
 "COVID testing at former Sports Authority Northern Blvd",642,"2020-05-14T04:00:00.000Z",,,"Community Services",40.7526051,-73.9085913,,"specifications to follow
 ",,"2020-05-29T17:32:14.000Z",,,,,,,,,,,
 "Washateria Laundromat",643,,"(718) 937-6872",,"Laundromat & Cleaners",40.741416,-73.920153,"4424 Greenpoint Ave, Sunnyside","
-",,"2020-05-29T17:32:14.000Z","Open daily, 8am-8:30pm
-","Open",,,,,,,,,
+",,"2020-05-29T17:32:14.000Z","Open","Open daily, 8am-8:30pm
+",,,,,,,,,
 "Hong Guang Laundromat",644,"2020-04-09T04:00:00.000Z","(718) 838-8885",,"Laundromat & Cleaners",40.74414,-73.923111,"43-45 41st St, Sunnyside","Mon-Fri 8am-10pm; Sat-Sun 7:30am-9:30pm
-",,"2020-05-29T17:32:14.000Z",,"Open",,,,,,,,,
+",,"2020-05-29T17:32:14.000Z","Open",,,,,,,,,,
 "Sunny Suds Laundromat",645,,"(718) 472-3312",,"Laundromat & Cleaners",40.745687,-73.924132,"3943 43rd St, Sunnyside","
-",,"2020-05-29T17:32:14.000Z",,"Follow-up",,,,,,,,,
+",,"2020-05-29T17:32:14.000Z","Follow-up",,,,,,,,,,
 "Bubble Laundromat",646,"2020-05-06T04:00:00.000Z","(347) 738-4281",,"Laundromat & Cleaners",40.739377,-73.921211,"44-2 48th Ave, Woodside","
-",,"2020-05-29T17:32:14.000Z","Open daily 7AM-10PM
-","Open",,,,,,,,,
+",,"2020-05-29T17:32:14.000Z","Open","Open daily 7AM-10PM
+",,,,,,,,,
 "King Coin Laundry & Cleaners",647,,"(718) 706-1279","http://www.kingcoincleaners.com/","Laundromat & Cleaners",40.738515,-73.927939,"38-15 Greenpoint Ave, Long Island City","
-",,"2020-05-29T17:32:14.000Z",,"Follow-up","Yes","Yes",,,,,,,
+",,"2020-05-29T17:32:14.000Z","Follow-up",,"Yes","Yes",,,,,,,
 "No. 1 Laundromat",648,,"(718) 472-2544",,"Laundromat & Cleaners",40.743624,-73.918722,"4344 46th St, Sunnyside","
-",,"2020-05-29T17:32:14.000Z",,"Follow-up",,,,,,,,,
+",,"2020-05-29T17:32:14.000Z","Follow-up",,,,,,,,,,
 "Diamond Dry Cleaners and Laundromat",649,,"(718) 752-0352","http://www.sunnysideshines.org/business/diamond-dry-cleaner-and-laundromat","Laundromat & Cleaners",40.743678,-73.919345,"4347 45th St, Sunnyside","Closed Thursday. Friday thru Wednesday 7AM-7PM. Last wash is 5PM.
 ",,"2020-05-29T17:32:14.000Z",,,,,,,,,,,
 "DCH Laundromat",650,,"(646) 708-0688",,"Laundromat & Cleaners",40.7394,-73.919599,"45-17 48th St, Woodside","Call for hours.
@@ -69,10 +69,10 @@
 ",,"2020-05-29T17:32:14.000Z",,,,,,,,,,,
 "50-02 Laundromat",655,"2020-04-16T04:00:00.000Z",,,"Laundromat & Cleaners",40.74597,-73.914185,"50-02 Skillman Ave, Flushing","Open, hours uncertain - Call to confirm (718) 440-2930
 ",,"2020-05-29T17:32:14.000Z",,,,,,,,,,,
-"H Laundromat",656,,,,"Laundromat & Cleaners",40.742093,-73.925094,,"[Closed at this time]
-",,"2020-05-29T17:32:14.000Z",,,,,,,,,,,
-"Sunnyside Laundromat",657,,"(718) 729-2077",,"Laundromat & Cleaners",40.740121,-73.925418,"3937 48th Ave, Sunnyside","[Closed at this time]
-",,"2020-05-29T17:32:14.000Z",,,,,,,,,,,
+"H Laundromat",656,,,,"Laundromat & Cleaners",40.742093,-73.925094,,"
+",,"2020-05-29T17:32:14.000Z","Closed",,,,,,,,,,
+"Sunnyside Laundromat",657,,"(718) 729-2077",,"Laundromat & Cleaners",40.740121,-73.925418,"3937 48th Ave, Sunnyside","
+",,"2020-05-29T17:32:14.000Z","Closed",,,,,,,,,,
 "14th Laundry",658,"2020-04-17T04:00:00.000Z","(718) 726-0724","http://14thlaundry.com/","Laundromat & Cleaners",40.769143,-73.931045,"3067 14th St, Astoria","Closed at this time (Call 718-726-0724)
 ",,"2020-05-29T17:32:14.000Z",,,,,,,,,,,
 "Lemon Laundry",659,"2020-04-12T04:00:00.000Z","(917) 832-7407","http://www.lemonlaundromat.com/","Laundromat & Cleaners",40.747444,-73.903109,"60-11 39th Ave, Queens","9am-5pm daily, drop-off only, wash and dry only (no folding) <http://lemonlaundromat.com>
@@ -138,12 +138,11 @@
 ","Supermarket,grocery_or_supermarket,food,point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
 "Go Natural Health Food & Juice Bar",688,"2020-04-14T04:00:00.000Z","(718) 482-0008",,"Groceries",40.743556,-73.919334,"45-03 Queens Blvd, Sunnyside","temporarily closed will REOPEN on Sun 4/19 Call & 718-482-0008  Updates  <https://www.instagram.com/p/B-xRR57jdqR/>
 ","food,health,point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
-"La Adelita de Woodside",689,"2020-04-16T04:00:00.000Z","(917) 396-1295","http://www.laadelitanyc.com/","Groceries",40.744888,-73.910762,"5321 Roosevelt Ave, Woodside","Call (917) 396-1295 Rancheros Eggs �� Tamales ����  Available for take-out or delivery Call (917) 396-1235 [www.facebook.com/LaAdelitanyc][1]
-
-  [1]: http://www.facebook.com/LaAdelitanyc
-","bakery,restaurant,food,point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
-"C-Town Supermarkets",690,,,,"Groceries",40.74896,-73.863289,,"Pickup & Delivery (718) 784-8420
-",,"2020-05-29T17:32:14.000Z",,,,,,,,,,,
+"La Adelita de Woodside",689,"2020-04-16T04:00:00.000Z","(917) 396-1295","www.facebook.com/LaAdelitanyc","Groceries",40.744888,-73.910762,"5321 Roosevelt Ave, Woodside","Rancheros Eggs �� Tamales ���� 
+","bakery,restaurant,food,point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,"Yes (Call ahead)","Yes (Call for delivery)"," (917) 396-1235 
+",,,,,,
+"C-Town Supermarkets",690,,"(718) 784-8420",,"Groceries",40.74896,-73.863289,,"
+","Supermarket","2020-05-29T17:32:14.000Z",,,"Yes","Yes",,,,,,,
 "La Vienesa Bakery",691,"2020-05-18T04:00:00.000Z","(718) 786-2924",,"Groceries",40.743542,-73.924636,"39-44 Queens Blvd, Sunnyside","7am-4pm pickup & takeout  718-786-2924 | 39-44 Queens Blvd Sunnyside [www.instagram.com/p/CAT0hm3jjRM/][1]
 
   [1]: http://www.instagram.com/p/CAT0hm3jjRM/
@@ -334,8 +333,8 @@
 "Tikvah Kosher Meat",774,"2020-05-06T04:00:00.000Z","(718) 575-8200",,"Groceries",40.727098,-73.822322,"71-28 Main St, Flushing","Open 8am-6pm Sun-Thurs 8am-2pm Fri
 ","grocery_or_supermarket,food,point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
 "Paul's Market",775,"2020-05-02T04:00:00.000Z","(718) 746-7285","None","Groceries",40.761224,-73.789669,"3921 192nd St, Flushing","6am-8pm Please Wear Mask
-","Supermarket","2020-05-29T17:32:14.000Z",,"Open","Yes (Call ahead)","No","Local","t","None","Yes","Unknown","N/A
-","None"
+","Supermarket","2020-05-29T17:32:14.000Z","Open",,"Yes (Call ahead)","No","N/A
+","Local","t","None","Yes","Unknown","None"
 "Han Kook Meat Market",776,"2020-04-05T04:00:00.000Z",,,"Groceries",40.757876,-73.795698,,"11am-10pm Takeout and Delivery Only (718) 762-6245
 ",,"2020-05-29T17:32:14.000Z",,,,,,,,,,,
 "Manna Catering",777,"2020-05-02T04:00:00.000Z","(718) 352-0175",,"Groceries",40.757729,-73.788621,"192-20 Northern Blvd, Flushing","7am-9pm Takeout
@@ -349,8 +348,8 @@
 "Key Food Supermarket",781,"2020-04-04T04:00:00.000Z","(718) 945-5220","http://www.keyfood.com/","Groceries",40.586965,-73.81259,"87-15 Rockaway Beach Blvd, Far Rockaway",,"Supermarket,grocery_or_supermarket,food,point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
 "Ralph's II Deli",782,"2020-04-19T04:00:00.000Z","(718) 352-8546",,"Groceries",40.769854,-73.789241,"200-01 32nd Ave, Bayside","Open but closed on Sundays
 ","point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
-"T & C Convenience",783,"2020-04-19T04:00:00.000Z",,,"Groceries",40.763306,-73.792776,,"Opened
-",,"2020-05-29T17:32:14.000Z",,,,,,,,,,,
+"T & C Convenience",783,"2020-04-19T04:00:00.000Z",,,"Groceries",40.763306,-73.792776,,"
+",,"2020-05-29T17:32:14.000Z","Open",,,,,,,,,,
 "US Asian Supermarket",784,,"(718) 639-8688",,"Groceries",40.741423,-73.881465,"82-66 Broadway, Queens","Pickup Only (718) 639-8688
 ","Supermarket,grocery_or_supermarket,food,point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
 "Woodside Deli",785,,"(718) 301-0693",,"Groceries",40.756806,-73.906898,"54-12 31st Ave, Woodside","Pickup Only
@@ -990,8 +989,8 @@
 ","meal_delivery,restaurant,food,point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
 "Halal Munchies",1008,"2020-04-19T04:00:00.000Z","(917) 745-0585",,"Restaurants, Bars, Cafes & Bakeries",40.766934,-73.912149,"25-35 Steinway St, Astoria","Delivery Hours 12PM-12AM, Takeout Hours 11AM-2AM, Call (917) 745-0585 or order online through Seamless/Grubhub
 ","restaurant,food,point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
-"Halsey's Tavern",1009,"2020-04-19T04:00:00.000Z","(718) 267-2735","http://www.halseystavern.com/","Restaurants, Bars, Cafes & Bakeries",40.763714,-73.921562,"30-95 33rd St, Astoria","[Closed at this time] - Order gift cards online at <https://www.halseystavern.com/giftcards>
-","bar,restaurant,food,point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
+"Halsey's Tavern",1009,"2020-04-19T04:00:00.000Z","(718) 267-2735","http://www.halseystavern.com/","Bar",40.763714,-73.921562,"30-95 33rd St, Astoria","[Closed at this time] - Order gift cards online at <https://www.halseystavern.com/giftcards>
+",,"2020-05-29T17:32:14.000Z",,,,,,,,,,,
 "Hamido Seafood",1010,"2020-04-19T04:00:00.000Z","(718) 545-2200","https://www.facebook.com/HamidoSeafood/","Restaurants, Bars, Cafes & Bakeries",40.775079,-73.909453,"3308 Ditmars Blvd, Astoria","Delivery & Takeout Hours 12-9PM, Call (718) 545-2200 or order online through Grubhub/Seamless/UberEats  <https://www.facebook.com/HamidoSeafood/>
 ","restaurant,food,point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
 "Happy Garden",1011,"2020-04-19T04:00:00.000Z","(718) 274-1195",,"Restaurants, Bars, Cafes & Bakeries",40.767299,-73.922871,"29-26 30th Ave, Astoria","Delivery & Takeout Hours 11AM-11PM, Call (718) 274-1195
@@ -2947,7 +2946,7 @@
 "NY Puppy Club 191st",1864,"2020-05-02T04:00:00.000Z","(718) 886-1051","http://www.nypuppyclub.com/","Shops & Services",40.758021,-73.789614,"191-15 Northern Blvd, Flushing","9:30am-8pm Same day Deliveries at [www.nypuppyclub.com][1]  Open at 7am Monday - Friday for drop-off
 
   [1]: http://www.nypuppyclub.com
-","point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
+","Pet Supplies","2020-05-29T17:32:14.000Z",,,,,,,,,,,
 "P.C. Richard & Son",1865,"2020-04-19T04:00:00.000Z","(718) 224-6400","https://www.pcrichard.com/Stores/New-York/Queens/Bayside?utm_source=Google-My-Business&utm_medium=organic&utm_campaign=Google-My-Business","Shops & Services",40.758197,-73.78333,"42-99 Francis Lewis Blvd, Queens","Everyday 10am-5pm Call for Curbside ""Contract less"" Service. Services available BY PHONE ONLY
 ","electronics_store,car_repair,furniture_store,home_goods_store,point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
 "CJ Nationwide Shipping",1866,"2020-05-02T04:00:00.000Z","(718) 357-3534","http://shippingoutlet.wixsite.com/cjfedex","Shops & Services",40.757724,-73.78874,"192-14 Northern Blvd, Flushing","Monday - Friday 10:30am - 6:30pm; Saturday 10:30am - 3pm  Do not enter without mask, We do not accept Fedex Ground Service Drop + Return (go to Walgreens)
@@ -2971,9 +2970,9 @@
 "Prime Jewelers",1875,"2020-05-21T04:00:00.000Z","(718) 441-3416","https://prime-jewelers-nyc.myshopify.com/","Shops & Services",40.6929675,-73.853519,"9104 Jamaica Ave, Jamaica","(718) 441-3416 10AM-6:30 Mon-Fri. Sat 10AM-6PM, Sun
 ","jewelry_store,point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
 "Sprint Store",1876,"2020-05-21T04:00:00.000Z",,,"Shops & Services",40.6928263,-73.8538941,,"(718) 846-2430 11am-7pm Mon-Sun <https://www.sprint.com/storefronts/bd/sprint-woodhaven-ny-11421-fcs-1177/>
-",,"2020-05-29T17:32:14.000Z",,,,,,,,,,,
+","Celluar","2020-05-29T17:32:14.000Z",,,,,,,,,,,
 "T-Mobile",1877,"2020-05-21T04:00:00.000Z","(718) 846-8702","https://www.t-mobile.com/store-locator/ny/woodhaven/jamaica-ave-90th-st-2","Shops & Services",40.693013,-73.854357,"9007 Jamaica Ave, Queens","(718) 846-8700 Mon-Sat 10am-8pm Sun 11-5pm <https://www.t-mobile.com>
-","electronics_store,point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
+","Celluar","2020-05-29T17:32:14.000Z",,,,,,,,,,,
 "Ohlert-Ruggiere Inc",1878,"2020-05-21T04:00:00.000Z","(718) 847-2323","https://www.travelers.com/FindAgent/All/NY/WOODHAVEN/OHLERT-RUGGIERE-INC/","Shops & Services",40.6928581,-73.8551755,"8911 Jamaica Ave, Jamaica","(718) 847-2323
 ","insurance_agency,point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
 "Paola's Party Land",1879,"2020-05-21T04:00:00.000Z","(718) 847-2266","http://www.paolaspartyland.com/","Shops & Services",40.6926418,-73.8553017,"8906 Jamaica Ave, Woodhaven","(718) 847-2266 1pm-6:45 Mon, 10am-6:45pm Tues-Sat. 10am-2:45 Sun <https://www.paolaspartyland.com/>
@@ -3000,12 +2999,14 @@
 ","veterinary_care,point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
 "Vernon Blvd Pharmacy Inc",1890,"2020-05-02T04:00:00.000Z","(718) 361-7390","http://vernonblvdpharmacy.com/","Pharmacies & General Stores",40.7436369,-73.9535474,"4815 Vernon Blvd, Long Island City","Call 718-361-7390
 ","pharmacy,health,point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
-"Rite Aid",1891,"2020-04-09T04:00:00.000Z","(718) 426-7572","https://www.riteaid.com/locations/ny/woodside/50-15-roosevelt-avenue.html","Pharmacies & General Stores",40.744057,-73.914465,"50-15 Roosevelt Ave, Queens","NEW HOURS daily 7am-10pm; pharmacy 9am-9pm; Seniors preferential Mon-Fri 8am-10am
-","drugstore,convenience_store,food,health,point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
+"Rite Aid",1891,"2020-04-09T04:00:00.000Z","(718) 426-7572","https://www.riteaid.com/locations/ny/woodside/50-15-roosevelt-avenue.html","Pharmacies & General Stores",40.744057,-73.914465,"50-15 Roosevelt Ave, Queens","
+",,"2020-05-29T17:32:14.000Z",," 7am-10pm; pharmacy 9am-9pm;
+",,,,,,"9am – 10am",,,
 "Walgreens",1892,"2020-04-16T04:00:00.000Z","(718) 433-0941","https://www.walgreens.com/locator/walgreens-45-02+43rd+avenue-sunnyside-ny-11104/id=17681","Pharmacies & General Stores",40.744883,-73.919158,"45-02 43rd Ave, Sunnyside","Daily 9am-9pm
 ","drugstore,convenience_store,pharmacy,food,health,point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
-"Rite Aid",1893,"2020-04-16T04:00:00.000Z","(718) 639-3234","https://www.riteaid.com/locations/ny/woodside/60-26-woodside-avenue.html","Pharmacies & General Stores",40.744682,-73.903707,"60-26 Woodside Ave, Queens","NEW HOURS daily 7am-10pm; pharmacy 9am-9pm; Seniors preferential Mon-Fri 8am-10am
-","drugstore,convenience_store,food,health,point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
+"Rite Aid",1893,"2020-04-16T04:00:00.000Z","(718) 639-3234","https://www.riteaid.com/locations/ny/woodside/60-26-woodside-avenue.html","Pharmacies & General Stores",40.744682,-73.903707,"60-26 Woodside Ave, Queens","
+",,"2020-05-29T17:32:14.000Z",,"7am-10pm; pharmacy 9am-9pm;
+",,,,,,"9am – 10am",,,
 "Walgreen's",1894,"2020-04-16T04:00:00.000Z","(718) 779-6431","https://www.walgreens.com/locator/walgreens-5801+queens+blvd-woodside-ny-11377/id=19959","Pharmacies & General Stores",40.745265,-73.904231,"58-01 Queens Blvd, Woodside","Daily 9am-9pm, Seniors only every Tuesday 8am-9am, call to confirm (718) 476-8379
 ","drugstore,convenience_store,pharmacy,food,health,point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
 "Skillman Pharmacy",1895,,"(718) 565-5454",,"Pharmacies & General Stores",40.745892,-73.914098,"50-6 Skillman Ave, Woodside","Mon-Fri 10am-7pm (Closed Sat-Sun) SUPPORT this local small biz pharmacy
@@ -3044,8 +3045,9 @@
 ","health,point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
 "Prime RX Pharmacy Inc",1911,"2020-04-22T04:00:00.000Z","(718) 296-0202","http://www.vital.com/","Pharmacies & General Stores",40.691678,-73.865896,"75-17 Jamaica Ave, Jamaica","(718) 296-0202
 ","pharmacy,health,point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
-"Rite Aid",1912,"2020-04-22T04:00:00.000Z","(718) 849-7777","https://www.riteaid.com/locations/ny/woodhaven/89-10-jamaica-avenue.html","Pharmacies & General Stores",40.692503,-73.855115,"89-10 Jamaica Ave, Queens","(718) 849-7777 <https://www.riteaid.com/locations/ny/woodhaven/89-10-jamaica-avenue.html>
-","drugstore,convenience_store,food,health,point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
+"Rite Aid",1912,"2020-05-29T04:00:00.000Z","(718) 849-7777","https://www.riteaid.com/locations/ny/woodhaven/89-10-jamaica-avenue.html","Pharmacies & General Stores",40.692503,-73.855115,"89-10 Jamaica Ave, Queens","
+",,"2020-05-29T17:32:14.000Z",,"Open 24 Hours, Pharmacy 9:00 AM - 9:00 PM
+",,,,,,"9am – 10am",,,
 "TS Friends Pharmacy",1913,"2020-04-22T04:00:00.000Z","(718) 374-3265",,"Pharmacies & General Stores",40.692579,-73.856618,"8720 Jamaica Ave, Jamaica","+1 718-374-3265
 ","pharmacy,health,point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
 "Woodhaven Chemist",1914,"2020-05-21T04:00:00.000Z","(718) 441-7111",,"Pharmacies & General Stores",40.692504,-73.857315,"86-22 Jamaica Ave, Woodhaven","+1 718-441-7111 Mon-Thurs 9am-7pm Fri,Sun 9am-5pm Sat (closed)
@@ -3062,13 +3064,13 @@
 ","pharmacy,health,point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
 "Sunnysight Optik",1920,"2020-05-05T04:00:00.000Z","(718) 784-2477","http://sunnysightoptik.com/","Pharmacies & General Stores",40.7436466,-73.9199135,"44-13 Queens Blvd, Sunnyside","Reopening on 5/16 Call 718-784-2477 before visiting or visit sunnysightoptik.com
 ","doctor,health,point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
-"Dr. Bhavana R. Japi, MD",1921,"2020-05-06T04:00:00.000Z","(718) 786-9595","http://drjapi.business.site/","Pharmacies & General Stores",40.7390239,-73.9180074,"6550, 4714 48th St, Woodside","Call 718-786-9595 Mon 11AM-3:30PM  Wed 1PM-6PM  Sat 9AM-1PM
+"Dr. Bhavana R. Japi, MD",1921,"2020-05-06T04:00:00.000Z","(718) 786-9595","http://drjapi.business.site/","Doctor",40.7390239,-73.9180074,"6550, 4714 48th St, Woodside","Call 718-786-9595 Mon 11AM-3:30PM  Wed 1PM-6PM  Sat 9AM-1PM
 ","doctor,health,point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
 "Bliss Drugs Inc",1922,"2020-05-06T04:00:00.000Z","(718) 482-8900","http://www.blissdrugs.com/","Pharmacies & General Stores",40.7433611,-73.9173333,"47-01 Queens Blvd, Sunnyside","Call 718-482-8900 Mon-Fri 9AM-6PM  Sat 9AM-1PM Sun- Closed
 ","pharmacy,health,point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
 "GNC",1923,"2020-05-18T04:00:00.000Z","(718) 706-8058","http://stores.gnc.com/sunnyside-ny-5001?utm_source=google&utm_medium=distrib&utm_campaign=google-distrib","Pharmacies & General Stores",40.7431781,-73.9182377,"46-16 Queens Blvd, Queens","Mon, Wed, Sat 11AM-5PM Call: 718-445-0007 <http://www.gnc.com>
-","food,health,point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
-"Woodhaven Family Dental",1924,"2020-05-21T04:00:00.000Z","(718) 847-3300","https://www.zocdoc.com/practice/woodhaven-family-dental-33754","Pharmacies & General Stores",40.6927791,-73.8576299,"8613 Jamaica Ave, Woodhaven","(718) 847-3300 Mon,Tues,Thurs 10am-7pm Wed,Fri 10am-6pm Sat 10am-5pm
+","Fitness","2020-05-29T17:32:14.000Z",,,,,,,,,,,
+"Woodhaven Family Dental",1924,"2020-05-21T04:00:00.000Z","(718) 847-3300","https://www.zocdoc.com/practice/woodhaven-family-dental-33754","Doctor",40.6927791,-73.8576299,"8613 Jamaica Ave, Woodhaven","(718) 847-3300 Mon,Tues,Thurs 10am-7pm Wed,Fri 10am-6pm Sat 10am-5pm
 ","dentist,health,point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
 "Health Max Pharmacy",1925,"2020-05-21T04:00:00.000Z","(718) 296-0400","https://www.mygnp.com/pharmacies/health-max-pharmacy-woodhaven-ny-11421/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=3324061","Pharmacies & General Stores",40.6923634,-73.8621269,"80-07 Jamaica Ave, Woodhaven","(718)-296-0400 8:30AM-8:30PM Mon-Fri, 9AM-8PM Sat, Sun 10AM-6PM
 ","pharmacy,drugstore,health,point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
@@ -3076,5 +3078,5 @@
 ","doctor,health,point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
 "Thera Dynamic Physical Therapy PC.",1927,"2020-05-21T04:00:00.000Z","(347) 494-5684","http://theradynamicpt.com/","Pharmacies & General Stores",40.6921995,-73.86302,"79-07 Jamaica Ave, Woodhaven","(347) 494-5684 9am-7pm sun (closed) <https://theradynamicpt.com>
 ","health,point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
-"Family Medical Office",1928,"2020-05-21T04:00:00.000Z","(718) 805-0037",,"Pharmacies & General Stores",40.6915175,-73.8657131,"7556 Jamaica Ave, Woodhaven","(718) 805-0037
+"Family Medical Office",1928,"2020-05-21T04:00:00.000Z","(718) 805-0037",,"Doctor",40.6915175,-73.8657131,"7556 Jamaica Ave, Woodhaven","
 ","doctor,health,point_of_interest,establishment","2020-05-29T17:32:14.000Z",,,,,,,,,,,
