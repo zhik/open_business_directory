@@ -1,4 +1,4 @@
-"Name","id","Last Updated","Phone","Website/Social Media","Neighborhood","Category","Latitude","Longitude","Address","Notes","Sub-Category","Zipcode","Created time","Status","Hours","Pickup Offered","Delivery Offered","Special Accommodation Hours","Delivery/Pickup Notes","Source","Email","SNAP/EBT","WIC","Donate","Type of Service","Delivery Apps","Black Owned Business","Instagram"
+"Name","id","Last Updated","Phone","Website/Social Media","Neighborhood","Category","Latitude","Longitude","Address","Notes","Sub-Category","Zipcode","Created time","Status","Donate","Hours","Pickup Offered","Delivery Offered","Special Accommodation Hours","Delivery/Pickup Notes","Source","Email","SNAP/EBT","WIC","Type of Service","Delivery Apps","Black Owned Business","Instagram"
 "Mosaic Roosevelt Island Church",630,"2020-04-28T04:00:00.000Z","(347) 674-8659","http://mosaicri.nyc/","Lenox Hill-Roosevelt Island","Community Services",40.761804,-73.950135,"543 Main St, New York","Food supplies drive donations Visit [www.facebook.com/dansadlier][1] More info [www.instagram.com/mosaicwqnyc/][2]
 
   [1]: http://www.facebook.com/dansadlier
@@ -9,25 +9,26 @@
   [1]: http://www.facebook.com/dansadlier
   [2]: http://www.instagram.com/mosaicwqnyc/
 ",,"11104","2020-05-29T17:32:14.000Z",,,,,,,,,,,,,,,
-"The Queensboro: Meals for Elmhurst Hospital",632,"2020-04-09T04:00:00.000Z","(929) 296-0038","https://www.thequeensboro.com/","Jackson Heights","Community Services",40.75525,-73.88708,"80-02 Northern Blvd, Jackson Heights","The Queensboro is providing meals for frontline personnel at Elmhurst Hospital. More: [www.thequeensboro.com/post/help-feed-hospital-workers][1]
+"The Queensboro",632,"2020-04-09T04:00:00.000Z","(929) 296-0038","https://www.thequeensboro.com/","Jackson Heights","Restaurants, Bars, Cafes & Bakeries",40.75525,-73.88708,"80-02 Northern Blvd, Jackson Heights","The Queensboro is providing meals for frontline personnel at Elmhurst Hospital. More: [www.thequeensboro.com/post/help-feed-hospital-workers][1]
 
   [1]: http://www.thequeensboro.com/post/help-feed-hospital-workers
-","restaurant,food","11372","2020-05-29T17:32:14.000Z",,,,,,,,,,,,,,,
+","restaurant,food","11372","2020-05-29T17:32:14.000Z","Open","https://www.thequeensboro.com/support-queens",,,,,,,,,,,,,
 "Woodside on The Move",633,"2020-04-25T04:00:00.000Z","(718) 476-8449","http://www.woodsideonthemove.org/","Hunters Point-Sunnyside-West Maspeth","Community Services",40.742862,-73.913044,"51-23 Queens Blvd, Woodside","Sat-Sun 5pm-8pm WOTM is continuing to serve our community that is affected the hardest! If you are food insecure, our office will be open for food distribution on  #wearewoodsidenyc Info [www.instagram.com/woodsideonthemove][1]
 
   [1]: http://www.instagram.com/woodsideonthemove
 ",,"11377","2020-05-29T17:32:14.000Z",,,,,,,,,,,,,,,
-"LITTLE FRIENDS SCHOOL",634,"2020-04-16T04:00:00.000Z","(718) 786-4644",,"Hunters Point-Sunnyside-West Maspeth","Community Services",40.74354,-73.91787,"43-42 47th St, Long Island City","Free Emergency Childcare Center for first responders [No money exchanged] Call/Text Tammy (718) 786-4644 Email littlefriends@kindersproutselc.com
+"Little Friends School",634,"2020-04-16T04:00:00.000Z","(718) 786-4644",,"Hunters Point-Sunnyside-West Maspeth","Community Services",40.74354,-73.91787,"43-42 47th St, Long Island City","Free Emergency Childcare Center for first responders [No money exchanged] Call/Text Tammy (718) 786-4644 Email littlefriends@kindersproutselc.com
 ","school","11104","2020-05-29T17:32:14.000Z",,,,,,,,,,,,,,,
-"LITTLE FRIENDS INFANT & TODDLER PROGRAM",635,"2020-04-16T04:00:00.000Z","(347) 696-4396",,"Hunters Point-Sunnyside-West Maspeth","Community Services",40.745885,-73.920322,"41-32 44th St, Long Island City","Free Emergency Childcare Center for first responders [No money exchanged] Call/Text Tammy (718) 786-4644 Email littlefriends@kindersproutselc.com
+"Little Friends Infant & Toddler Program",635,"2020-06-07T04:00:00.000Z","(347) 696-4396",,"Hunters Point-Sunnyside-West Maspeth","Community Services",40.745885,-73.920322,"41-32 44th St, Long Island City","Free Emergency Childcare Center for first responders [No money exchanged] Call/Text Tammy (718) 786-4644 Email littlefriends@kindersproutselc.com
 ","school","11104","2020-05-29T17:32:14.000Z",,,,,,,,,,,,,,,
 "Sunnyside Gardens Park",636,"2020-05-04T04:00:00.000Z","(718) 672-1555","http://sunnysidegardenspark.org/","Hunters Point-Sunnyside-West Maspeth","Community Services",40.749655,-73.914527,"48-21 39th Ave, Sunnyside","Partnered with Cooldown Juice to deliver fresh, organic juices to the staff at Elmhurst Hospital. Donate here <https://sunnysidegardenspark.org/Juice-for-Elmhurst-Hospital>
-","park","11104","2020-05-29T17:32:14.000Z",,,,,,,,,,,,,,,
+","park","11104","2020-05-29T17:32:14.000Z","Open",,,,,,,,,,,,,,
 "Smiling Hogshead Ranch",637,"2020-04-06T04:00:00.000Z","(347) 509-4464","http://www.smilinghogsheadranch.org/","Hunters Point-Sunnyside-West Maspeth","Community Services",40.743146,-73.943055,"25-30 Skillman Ave, Long Island City","Info/Updates [www.smilinghogsheadranch.org][1]
 
   [1]: http://www.smilinghogsheadranch.org
 ","park","11101","2020-05-29T17:32:14.000Z",,,,,,,,,,,,,,,
-"PS 361Q The Woodside Community School",638,"2020-04-20T04:00:00.000Z","(718) 592-3300","http://www.ps361q.org/","Woodside","Community Services",40.747714,-73.905814,"39-7 57th St, Woodside","(We miss you 361)
+"PS 361Q The Woodside Community School",638,"2020-04-20T04:00:00.000Z","(718) 592-3300","http://www.ps361q.org/","Woodside","Community Services",40.747714,-73.905814,"39-7 57th St, Woodside","
+
 ","school","11377","2020-05-29T17:32:14.000Z",,,,,,,,,,,,,,,
 "State Senator Jessica Ramos",639,"2020-05-07T04:00:00.000Z","(718) 205-3881","https://www.nysenate.gov/senators/jessica-ramos","East Elmhurst","Community Services",40.7576569,-73.8739219,"32-37 Junction Blvd, East Elmhurst","Friday May 15th 12pm until the food runs out 32-37 Junction Blvd  East Elmhurst, NY in partnership with NY state farms to distribute free fresh fruits & vegetables <https://twitter.com/jessicaramos/status/1260634319225225216>
 ",,"11369","2020-05-29T17:32:14.000Z",,,,,,,,,,,,,,,
@@ -42,31 +43,31 @@
 "COVID testing at former Sports Authority Northern Blvd",642,"2020-05-14T04:00:00.000Z",,,"Woodside","Community Services",40.7526051,-73.9085913,,"specifications to follow
 ",,"11377","2020-05-29T17:32:14.000Z",,,,,,,,,,,,,,,
 "Washateria Laundromat",643,,"(718) 937-6872",,"Hunters Point-Sunnyside-West Maspeth","Laundromat & Cleaners",40.741416,-73.920153,"4424 Greenpoint Ave, Sunnyside","
-",,"11104","2020-05-29T17:32:14.000Z","Open","Open daily, 8am-8:30pm
-",,,,,,,,,,,,,
+",,"11104","2020-05-29T17:32:14.000Z","Open",,"Open daily, 8am-8:30pm
+",,,,,,,,,,,,
 "Hong Guang Laundromat",644,"2020-04-09T04:00:00.000Z","(718) 838-8885",,"Hunters Point-Sunnyside-West Maspeth","Laundromat & Cleaners",40.74414,-73.923111,"43-45 41st St, Sunnyside","
-",,"11104","2020-05-29T17:32:14.000Z","Open","Mon-Fri 8am-10pm; Sat-Sun 7:30am-9:30pm
-",,,,,,,,,,,,,
+",,"11104","2020-05-29T17:32:14.000Z","Open",,"Mon-Fri 8am-10pm; Sat-Sun 7:30am-9:30pm
+",,,,,,,,,,,,
 "Sunny Suds Laundromat",645,,"(718) 472-3312",,"Hunters Point-Sunnyside-West Maspeth","Laundromat & Cleaners",40.745687,-73.924132,"3943 43rd St, Sunnyside","
 ",,"11104","2020-05-29T17:32:14.000Z","Follow-up",,,,,,,,,,,,,,
 "Bubble Laundromat",646,"2020-05-06T04:00:00.000Z","(347) 738-4281",,"Hunters Point-Sunnyside-West Maspeth","Laundromat & Cleaners",40.739377,-73.921211,"44-2 48th Ave, Woodside","
-",,"11377","2020-05-29T17:32:14.000Z","Open","Open daily 7AM-10PM
-",,,,,,,,,,,,,
+",,"11377","2020-05-29T17:32:14.000Z","Open",,"Open daily 7AM-10PM
+",,,,,,,,,,,,
 "King Coin Laundry & Cleaners",647,,"(718) 706-1279","http://www.kingcoincleaners.com/","Hunters Point-Sunnyside-West Maspeth","Laundromat & Cleaners",40.738515,-73.927939,"38-15 Greenpoint Ave, Long Island City","
-",,"11101","2020-05-29T17:32:14.000Z","Follow-up",,"Yes","Yes",,,,,,,,,,,
+",,"11101","2020-05-29T17:32:14.000Z","Follow-up",,,"Yes","Yes",,,,,,,,,,
 "No. 1 Laundromat",648,,"(718) 472-2544",,"Hunters Point-Sunnyside-West Maspeth","Laundromat & Cleaners",40.743624,-73.918722,"4344 46th St, Sunnyside","
 ",,"11104","2020-05-29T17:32:14.000Z","Follow-up",,,,,,,,,,,,,,
 "Diamond Dry Cleaners and Laundromat",649,,"(718) 752-0352","http://www.sunnysideshines.org/business/diamond-dry-cleaner-and-laundromat","Hunters Point-Sunnyside-West Maspeth","Laundromat & Cleaners",40.743678,-73.919345,"4347 45th St, Sunnyside","
-",,"11104","2020-05-29T17:32:14.000Z","Open","Closed Thursday. Friday thru Wednesday 7AM-7PM. Last wash is 5PM.
-",,,,,,,,,,,,,
+",,"11104","2020-05-29T17:32:14.000Z","Open",,"Closed Thursday. Friday thru Wednesday 7AM-7PM. Last wash is 5PM.
+",,,,,,,,,,,,
 "DCH Laundromat",650,,"(646) 708-0688",,"Hunters Point-Sunnyside-West Maspeth","Laundromat & Cleaners",40.7394,-73.919599,"45-17 48th St, Woodside","
 ",,"11377","2020-05-29T17:32:14.000Z","Follow-up",,,,,,,,,,,,,,
 "Skillman Laundry Center",651,,,,"Hunters Point-Sunnyside-West Maspeth","Laundromat & Cleaners",40.746142,-73.915678,"48-12 Skillman Ave, Long Island City"," (Call for updates!)
-",,"11104","2020-05-29T17:32:14.000Z","Follow-up","Posted hours 7am-5pm
-",,,,,,,,,,,,,
+",,"11104","2020-05-29T17:32:14.000Z","Follow-up",,"Posted hours 7am-5pm
+",,,,,,,,,,,,
 "Snow White Laundry",652,,"(718) 478-3480",,"Hunters Point-Sunnyside-West Maspeth","Laundromat & Cleaners",40.744348,-73.915436,"49-02 43rd Ave, Flushing, NY 11377","
-",,"11377","2020-05-29T17:32:14.000Z","Open","Open daily 8am-6pm - 
-",,,,,,,,,,,,,
+",,"11377","2020-05-29T17:32:14.000Z","Open",,"Open daily 8am-6pm - 
+",,,,,,,,,,,,
 "64 Woodside Laundromat",653,"2020-04-16T04:00:00.000Z","(718) 505-1217",,"Woodside","Laundromat & Cleaners",40.743611,-73.900278,"6414 Woodside Ave, Woodside","Call for hours
 ",,"11377","2020-05-29T17:32:14.000Z","Follow-up",,,,,,,,,,,,,,
 "Quality Laundrette",654,"2020-05-05T04:00:00.000Z","(917) 669-7571",,"Hunters Point-Sunnyside-West Maspeth","Laundromat & Cleaners",40.7461623,-73.9134667,"50-21 Skillman Ave, Flushing","Call 917-669-7571
@@ -123,8 +124,8 @@
 "Fresh Value Marketplace",679,"2020-05-04T04:00:00.000Z","(718) 997-8900","http://www.freshvaluemarketplace.net/","Rego Park","Groceries",40.7296667,-73.8628333,"9507 63rd Dr, Rego Park","
 ","Supermarket,liquor_store,food,health","11374","2020-05-29T17:32:14.000Z","Open",,,,,,,,,,,,,,
 "Netcost Market",680,"2020-05-04T04:00:00.000Z","(718) 459-4400","http://www.netcostmarket.com/","Rego Park","Groceries",40.7288889,-73.86,"97-10 Queens Blvd, Rego Park","
-","Supermarket,food","11374","2020-05-29T17:32:14.000Z","Open","General 10am–7:30pm
-",,,"Seniors 8am – 10am ",,,,,,,,,,
+","Supermarket,food","11374","2020-05-29T17:32:14.000Z","Open",,"General 10am–7:30pm
+",,,"Seniors 8am – 10am ",,,,,,,,,
 "Bayside Milk Farm",681,,"(718) 225-0050","http://www.baysidemilkfarm.com/","Bayside-Bayside Hills","Groceries",40.7685474,-73.7731793,"35-15 Bell Blvd, Bayside","718-225-0050  Shop & Delivery  M-F 8-9 Sat 8-7 & Sun 8:30-7 Order online baysidemilkfarm.com
 ","Supermarket,food","11361","2020-05-29T17:32:14.000Z",,,,,,,,,,,,,,,
 "Sunnyside Gardens Market",682,"2020-04-13T04:00:00.000Z","(718) 937-9301",,"Hunters Point-Sunnyside-West Maspeth","Groceries",40.746695,-73.917809,"46-01 Skillman Ave, Sunnyside","7am-1am daily, Call ahead 718-937-9301 (not open 24 hrs at this time)
@@ -144,10 +145,10 @@
 "Go Natural Health Food & Juice Bar",688,"2020-04-14T04:00:00.000Z","(718) 482-0008",,"Hunters Point-Sunnyside-West Maspeth","Groceries",40.743556,-73.919334,"45-03 Queens Blvd, Sunnyside","temporarily closed will REOPEN on Sun 4/19 Call & 718-482-0008  Updates  <https://www.instagram.com/p/B-xRR57jdqR/>
 ","food,health","11104","2020-05-29T17:32:14.000Z",,,,,,,,,,,,,,,
 "La Adelita de Woodside",689,"2020-04-16T04:00:00.000Z","(917) 396-1295","www.facebook.com/LaAdelitanyc","Woodside","Groceries",40.744888,-73.910762,"5321 Roosevelt Ave, Woodside","Rancheros Eggs, Tamales
-","bakery,restaurant,food","11377","2020-05-29T17:32:14.000Z",,,"Yes (Call ahead)","Yes (Call for delivery)",," (917) 396-1235 
-",,,,,,,,,
+","bakery,restaurant,food","11377","2020-05-29T17:32:14.000Z",,,,"Yes (Call ahead)","Yes (Call for delivery)",," (917) 396-1235 
+",,,,,,,,
 "C-Town Supermarkets",690,,"(718) 784-8420",,"North Corona","Groceries",40.74896,-73.863289,,"
-","Supermarket","11368","2020-05-29T17:32:14.000Z",,,"Yes","Yes",,,,,,,,,,,
+","Supermarket","11368","2020-05-29T17:32:14.000Z",,,,"Yes","Yes",,,,,,,,,,
 "La Vienesa Bakery",691,"2020-05-18T04:00:00.000Z","(718) 786-2924",,"Hunters Point-Sunnyside-West Maspeth","Groceries",40.743542,-73.924636,"39-44 Queens Blvd, Sunnyside","7am-4pm pickup & takeout  718-786-2924 | 39-44 Queens Blvd Sunnyside [www.instagram.com/p/CAT0hm3jjRM/][1]
 
   [1]: http://www.instagram.com/p/CAT0hm3jjRM/
@@ -158,8 +159,8 @@
 
 ","Deli","11377","2020-05-29T17:32:14.000Z","Open",,,,,,,,,,,,,,
 "Sunnyside Mini Mart",694,"2020-04-16T04:00:00.000Z",,,"Hunters Point-Sunnyside-West Maspeth","Groceries",40.746192,-73.916041,,"
-",,"11104","2020-05-29T17:32:14.000Z","Open","Open daily 8am-2am
-",,,,,,,,,,,,,
+",,"11104","2020-05-29T17:32:14.000Z","Open",,"Open daily 8am-2am
+",,,,,,,,,,,,
 "Fresh N Save",695,"2020-05-05T04:00:00.000Z","(718) 651-9720","http://www.keyfood.com/","Hunters Point-Sunnyside-West Maspeth","Groceries",40.745828,-73.913725,"50-18 Skillman Ave, Woodside","OPEN 24 HOURS Call (718) 651-9720
 ","Supermarket","11377","2020-05-29T17:32:14.000Z",,,,,,,,,,,,,,,
 "Food Bazaar",696,"2020-04-16T04:00:00.000Z","(347) 448-8860","http://www.foodbazaar.com/","Hunters Point-Sunnyside-West Maspeth","Groceries",40.752376,-73.921264,"42-02 Northern Blvd, Long Island City","Open daily 7am-8am for Seniors only and daily 8am-8:30pm for all. Grocery Market Prepared Food Beer UPDATES [www.instagram.com/foodbazaarsupermarkets/][1] DELIVERY  [www.instacart.com/food-bazaar][2] HIRING! [www.foodbazaar.com/contact/employment-application][3]
@@ -340,8 +341,8 @@
 "Tikvah Kosher Meat",774,"2020-05-06T04:00:00.000Z","(718) 575-8200",,"Kew Gardens Hills","Groceries",40.727098,-73.822322,"71-28 Main St, Flushing","Open 8am-6pm Sun-Thurs 8am-2pm Fri
 ","food","11367","2020-05-29T17:32:14.000Z",,,,,,,,,,,,,,,
 "Paul's Market",775,"2020-05-02T04:00:00.000Z","(718) 746-7285","None","Auburndale","Groceries",40.761224,-73.789669,"3921 192nd St, Flushing","6am-8pm Please Wear Mask
-","Supermarket","11358","2020-05-29T17:32:14.000Z","Open",,"Yes (Call ahead)","No","None","N/A
-","Local","t","Yes","Unknown","None",,,,
+","Supermarket","11358","2020-05-29T17:32:14.000Z","Open","None",,"Yes (Call ahead)","No","None","N/A
+","Local","t","Yes","Unknown",,,,
 "Han Kook Meat Market",776,"2020-04-05T04:00:00.000Z",,,"East Flushing","Groceries",40.757876,-73.795698,,"11am-10pm Takeout and Delivery Only (718) 762-6245
 ",,"11358","2020-05-29T17:32:14.000Z",,,,,,,,,,,,,,,
 "Manna Catering",777,"2020-05-02T04:00:00.000Z","(718) 352-0175",,"Auburndale","Groceries",40.757729,-73.788621,"192-20 Northern Blvd, Flushing","7am-9pm Takeout
@@ -358,127 +359,127 @@
 "T & C Convenience",783,"2020-04-19T04:00:00.000Z",,,"Auburndale","Groceries",40.763306,-73.792776,,"
 ",,"11358","2020-05-29T17:32:14.000Z","Open",,,,,,,,,,,,,,
 "US Asian Supermarket",784,,"(718) 639-8688",,"Elmhurst-Maspeth","Groceries",40.741423,-73.881465,"82-66 Broadway, Queens","
-","Supermarket","11373","2020-05-29T17:32:14.000Z","Open",,"Yes","No",,,,,,,,,,,
+","Supermarket","11373","2020-05-29T17:32:14.000Z","Open",,,"Yes","No",,,,,,,,,,
 "Woodside Deli",785,,"(718) 301-0693",,"Woodside","Groceries",40.756806,-73.906898,"54-12 31st Ave, Woodside","
-","Deli","11377","2020-05-29T17:32:14.000Z","Open",,"Yes","No",,,,,,,,,,,
+","Deli","11377","2020-05-29T17:32:14.000Z","Open",,,"Yes","No",,,,,,,,,,
 "Baker House Market",786,,"(718) 472-2450","https://www.bakerhousemarket.com/","Queensbridge-Ravenswood-Long Island City","Groceries",40.75195,-73.93907,"41-07 Crescent St, Long Island City","
-",,"11101","2020-05-29T17:32:14.000Z","Open",,"Yes",,,,,,,,,,,,
+",,"11101","2020-05-29T17:32:14.000Z","Open",,,"Yes",,,,,,,,,,,
 "Bravo Supermarkets",787,,"(347) 649-1471","http://www.bravofreshmarket.com/","Astoria","Groceries",40.761241,-73.931217,"24-18 34th Ave, Long Island City","
-","Supermarket,food","11106","2020-05-29T17:32:14.000Z","Open",,"Yes",,,,,,,,,,,,
+","Supermarket,food","11106","2020-05-29T17:32:14.000Z","Open",,,"Yes",,,,,,,,,,,
 "Bridge Gourmet Market",788,,"(718) 433-4082","https://bridgegourmet.business.site/","Queensbridge-Ravenswood-Long Island City","Groceries",40.751825,-73.940915,"23-01 Queens Plaza North 24th St. Corner, Long Island City","
-","meal_takeaway,cafe,restaurant,food","11101","2020-05-29T17:32:14.000Z","Open",,"Yes","No",,,,,,,,,,,
+","meal_takeaway,cafe,restaurant,food","11101","2020-05-29T17:32:14.000Z","Open",,,"Yes","No",,,,,,,,,,
 "Costco Wholesale",789,,"(718) 267-3680","http://www.costco.com/warehouse-locations/long-island-city-NY-243.html","Queensbridge-Ravenswood-Long Island City","Groceries",40.767423,-73.939195,"3250 Vernon Blvd, Queens","
-","department_store","11106","2020-05-29T17:32:14.000Z","Open",,"Yes","No",,,,,,,,,,,
+","department_store","11106","2020-05-29T17:32:14.000Z","Open",,,"Yes","No",,,,,,,,,,
 "Fresco Deli-Cafe",790,,"(718) 482-7400","http://frescodelicafe.biz/","Hunters Point-Sunnyside-West Maspeth","Groceries",40.744205,-73.931302,"3306 Queens Blvd, Queens","
-","meal_takeaway,cafe,restaurant,food","11101","2020-05-29T17:32:14.000Z","Open",,"Yes","No",,,,,,,,,,,
+","meal_takeaway,cafe,restaurant,food","11101","2020-05-29T17:32:14.000Z","Open",,,"Yes","No",,,,,,,,,,
 "Foodcellar Market Court Square",791,,"(718) 606-1888","http://www.foodcellarco.com/","Hunters Point-Sunnyside-West Maspeth","Groceries",40.748708,-73.942835,"43-18 Crescent St, Long Island City","Offering prepared foods and groceries
-","Supermarket,food","11101","2020-05-29T17:32:14.000Z","Open",,"Yes","No",,,,,,,,,,,
+","Supermarket,food","11101","2020-05-29T17:32:14.000Z","Open",,,"Yes","No",,,,,,,,,,
 "Foodcellar & Co.",792,,"7186061888",,"Hunters Point-Sunnyside-West Maspeth","Groceries",40.748661,-73.948774,,"
-",,"11101","2020-05-29T17:32:14.000Z","Open",,"Yes","No",,,,,,,,,,,
+",,"11101","2020-05-29T17:32:14.000Z","Open",,,"Yes","No",,,,,,,,,,
 "Glory Deli and Grocery",793,,"(718) 472-1113",,"Hunters Point-Sunnyside-West Maspeth","Groceries",40.746064,-73.953309,"4630 Vernon Blvd, Long Island City","
-","food","11101","2020-05-29T17:32:14.000Z","Open",,"Yes","No",,,,,,,,,,,
+","food","11101","2020-05-29T17:32:14.000Z","Open",,,"Yes","No",,,,,,,,,,
 "Elite Cafe",794,"2020-05-07T04:00:00.000Z","(718) 544-0307","https://elitecafenyc.com/","Kew Gardens Hills","Restaurants, Bars, Cafes & Bakeries",40.7258194,-73.8216778,"72-28 Main St, Flushing","Israeli, Italian and Mexican Cuisine Dairy Kosher
-","Kosher","11367","2020-05-29T17:32:14.000Z","Open","9am-10pm Sun-Thurs 9am-2:30pm Fri 2h after sundown-12am Sat 
+","Kosher","11367","2020-05-29T17:32:14.000Z","Open",,"9am-10pm Sun-Thurs 9am-2:30pm Fri 2h after sundown-12am Sat 
 ","Yes","No",,"Curbside pickup
-",,,,,,,,,
+",,,,,,,,
 "Griddle Cafe & Deli",795,,,,"Hunters Point-Sunnyside-West Maspeth","Groceries",40.734529,-73.937066,,"Pickup Only 718-9377947
-","Deli,cafe","11101","2020-05-29T17:32:14.000Z","Open",,"Yes","No",,,,,,,,,,,
+","Deli,cafe","11101","2020-05-29T17:32:14.000Z","Open",,,"Yes","No",,,,,,,,,,
 "Greenpoint Deli",796,,"(718) 786-2344",,"Hunters Point-Sunnyside-West Maspeth","Groceries",40.734529,-73.937066,"3124 Greenpoint Ave, Long Island City","Pickup Only 7187862344
-","Deli","11101","2020-05-29T17:32:14.000Z","Open",,"Yes","No",,,,,,,,,,,
+","Deli","11101","2020-05-29T17:32:14.000Z","Open",,,"Yes","No",,,,,,,,,,
 "Ocean Fish Market",797,,"(718) 721-2391",,"Astoria","Groceries",40.765058,-73.91804,"35-08 30th Ave, Astoria","Pickup Only (718) 721-2391
-","Fish","11103","2020-05-29T17:32:14.000Z","Open",,"Yes","No",,,,,,,,,,,
+","Fish","11103","2020-05-29T17:32:14.000Z","Open",,,"Yes","No",,,,,,,,,,
 "Key Food",798,,"(718) 361-7471","https://www.keyfood.com/store/store/1682?distance=0.37%20mile&query=11101&radius=5&services=&all=","Hunters Point-Sunnyside-West Maspeth","Groceries",40.747787,-73.947193,"44-65 21st St, Long Island City","Pickup Only 718-361-7471
-","Supermarket","11101","2020-05-29T17:32:14.000Z","Open",,"Yes","No",,,,,,,,,,,
+","Supermarket","11101","2020-05-29T17:32:14.000Z","Open",,,"Yes","No",,,,,,,,,,
 "Pop's Deli",799,,,,"Hunters Point-Sunnyside-West Maspeth","Groceries",40.744508,-73.953289,,"Pickup & Delivery (718) 406-9999
-",,"11101","2020-05-29T17:32:14.000Z","Open",,"Yes","Yes",,,,,,,,,,,
+",,"11101","2020-05-29T17:32:14.000Z","Open",,,"Yes","Yes",,,,,,,,,,
 "The Meera Deli",800,,"(718) 784-7963",,"Hunters Point-Sunnyside-West Maspeth","Groceries",40.748396,-73.947487,"11-57 44th Dr, Queens","Pickup & Delivery (718) 784-7963
-",,"11101","2020-05-29T17:32:14.000Z","Open",,"Yes","Yes",,,,,,,,,,,
+",,"11101","2020-05-29T17:32:14.000Z","Open",,,"Yes","Yes",,,,,,,,,,
 "Sakura-Ya Japanese Mart",801,"2020-05-03T04:00:00.000Z","(718) 268-7220","http://sakura-yajapanesemart.com/","Forest Hills","Groceries",40.7183333,-73.8402778,"73-05 Austin St, Forest Hills","Japanese grocery store
 ","Japanese","11375","2020-05-29T17:32:14.000Z","Open",,,,,,,,,,,,,,
 "Best Friends Farm Inc.",802,"2020-05-06T04:00:00.000Z","(718) 784-2629",,"Hunters Point-Sunnyside-West Maspeth","Groceries",40.7404475,-73.9227242,"42-04 Greenpoint Ave, Sunnyside","
-",,"11377","2020-05-29T17:32:14.000Z","Open","Open daily 9AM-7:30PM
-",,,,,,,,,,,,,
+",,"11377","2020-05-29T17:32:14.000Z","Open",,"Open daily 9AM-7:30PM
+",,,,,,,,,,,,
 "Bliss Grocery",803,"2020-05-06T04:00:00.000Z",,,"Hunters Point-Sunnyside-West Maspeth","Groceries",40.7427945,-73.9179463,"4622 Queens Blvd, Sunnyside","
-",,"11377","2020-05-29T17:32:14.000Z","Open","Open Daily 6AM-9PM
-",,,,,,,,,,,,,
+",,"11377","2020-05-29T17:32:14.000Z","Open",,"Open Daily 6AM-9PM
+",,,,,,,,,,,,
 "Tikvah Kosher Meat",804,"2020-05-06T04:00:00.000Z","(718) 896-8515",,"Forest Hills","Groceries",40.7322422,-73.8497269,"105-45 64th Rd, Forest Hills","
-","Kosher","11375","2020-05-29T17:32:14.000Z",,"Open 8am-6pm Sun-Thurs 8am-2pm Fri
-",,,,,,,,,,,,,
+","Kosher","11375","2020-05-29T17:32:14.000Z",,,"Open 8am-6pm Sun-Thurs 8am-2pm Fri
+",,,,,,,,,,,,
 "Aron's Kissena Farms",805,"2020-05-07T04:00:00.000Z","(718) 380-7300","http://www.aronskissenafarms.com/","Pomonok-Flushing Heights-Hillcrest","Groceries",40.7281381,-73.8140665,"72-15 Kissena Blvd, Queens","
-","Supermarket,food","11367","2020-05-29T17:32:14.000Z",,"7am-9pm Sun-Thurs 7am-2h before sundown Fri 
-",,,,,,,,,,,,,
+","Supermarket,food","11367","2020-05-29T17:32:14.000Z",,,"7am-9pm Sun-Thurs 7am-2h before sundown Fri 
+",,,,,,,,,,,,
 "Jollibee",806,"2020-05-10T04:00:00.000Z","(718) 426-4445","http://www.jollibee.com.ph/international/usa/store-locator","Woodside","Restaurants, Bars, Cafes & Bakeries",40.7460098,-73.9012069,"62-29 Roosevelt Ave, Queens","
-","Chicken,Filipino","11377","2020-05-29T17:32:14.000Z",,"Mon-Sun 10am-8pm,
+","Chicken,Filipino","11377","2020-05-29T17:32:14.000Z",,,"Mon-Sun 10am-8pm,
 ","Yes","Yes",,"for DoorDash and customers with an order number. Call to place an order due to limited menu. There are NO walk-in orders being taken.
-",,,,,,,,,
+",,,,,,,,
 "Metro Mini Market",807,"2020-05-11T04:00:00.000Z","(718) 417-7770",,"Ridgewood","Groceries",40.7132782,-73.9105203,"5401 Metropolitan Ave, Ridgewood","
 ","convenience_store","11378","2020-05-29T17:32:14.000Z","Open",,,,,,,,,,,,,,
 "C-Town Supermarket",808,"2020-05-21T04:00:00.000Z","(718) 847-5930","https://locations.ctownsupermarkets.com/ctown-supermarkets-a0993c83f372?utm_source=Google&utm_medium=organic&utm_campaign=Yext","Richmond Hill","Groceries",40.694569,-73.8473739,"98-02 Jamaica Ave, Queens","
-","Supermarket","11421","2020-05-29T17:32:14.000Z","Open","8AM-10pm All days
+","Supermarket","11421","2020-05-29T17:32:14.000Z","Open",,"8AM-10pm All days
 ",,,,"
-",,,,,,,,,
+",,,,,,,,
 "Go Natural",809,"2020-05-21T04:00:00.000Z","(718) 846-8816 ","https://www.gonaturalqns.com/","Woodhaven","Groceries",40.6925434,-73.8556482,"8820 Jamaica Ave, Woodhaven","
-","health","11421","2020-05-29T17:32:14.000Z","Open","Mon-Fri 7am-10pm. Sat-Sun 8am-9pm
+","health","11421","2020-05-29T17:32:14.000Z","Open",,"Mon-Fri 7am-10pm. Sat-Sun 8am-9pm
 ",,,,"
-",,,,,,,,,
+",,,,,,,,
 "Scaturro Super Market",810,"2020-05-21T04:00:00.000Z","(718) 441-1302",,"Woodhaven","Groceries",40.6926592,-73.8594691,"84-39 Jamaica Ave, Woodhaven","
-","Supermarket,food","11421","2020-05-29T17:32:14.000Z","Open","Mon-Sat: 8am-8pm; Sun: 8am-6pm
+","Supermarket,food","11421","2020-05-29T17:32:14.000Z","Open",,"Mon-Sat: 8am-8pm; Sun: 8am-6pm
 ",,,,"
-",,,,,,,,,
+",,,,,,,,
 "Alpha Donuts",811,"2020-05-10T04:00:00.000Z","(718) 472-4725",,"Hunters Point-Sunnyside-West Maspeth","Restaurants, Bars, Cafes & Bakeries",40.742908,-73.919016,"45-16 Queens Blvd, Sunnyside","
-","bakery,cafe,food","11104","2020-05-29T17:32:14.000Z","Open","6am-10pm daily 
+","bakery,cafe,food","11104","2020-05-29T17:32:14.000Z","Open",,"6am-10pm daily 
 ",,,,"
-",,,,,,,,,
+",,,,,,,,
 "Ariyoshi Japanese Restaurant",812,"2020-05-06T04:00:00.000Z","(718) 937-3288","www.facebook.com/sunnysider41","Hunters Point-Sunnyside-West Maspeth","Restaurants, Bars, Cafes & Bakeries",40.74398,-73.922918,"41-13 Queens Blvd, Sunnyside","
-","restaurant,food","11104","2020-05-29T17:32:14.000Z","Open","Mon-Sun 11:30am-10pm 
+","restaurant,food","11104","2020-05-29T17:32:14.000Z","Open",,"Mon-Sun 11:30am-10pm 
 ","Yes","Yes",,"for take out & delivery Call 718-937-3288 or <http://ariyoshi.us/en/index.php>
-",,,,,,,,,
+",,,,,,,,
 "Arriba Arriba",813,"2020-05-06T04:00:00.000Z","(718) 349-5911","www.instagram.com/arribaarribaqueens","Hunters Point-Sunnyside-West Maspeth","Restaurants, Bars, Cafes & Bakeries",40.744062,-73.923643,"40-15 Queens Blvd, Queens","
-","restaurant,food","11104","2020-05-29T17:32:14.000Z","Open","3pm-10pm 
+","restaurant,food","11104","2020-05-29T17:32:14.000Z","Open",,"3pm-10pm 
 ",,,,"takeout & delivery [www.arribarriba.com][1]
 
   [1]: http://www.arribarriba.com
-",,,,,,,,,
+",,,,,,,,
 "Maggie Mae's",814,"2020-05-07T04:00:00.000Z","(718) 433-3067","http://www.maggiemaesbar.com/","Hunters Point-Sunnyside-West Maspeth","Restaurants, Bars, Cafes & Bakeries",40.743957,-73.922855,"4115 Queens Blvd, Sunnyside","Happy Hours to go! follow Insta [www.instagram.com/maggiemaesbar][1]  
 
   [1]: http://www.instagram.com/maggiemaesbar
-","bar","11104","2020-05-29T17:32:14.000Z","Open",,,,,"Order by texting 347-394-6414 before 2pm, pre-pay by Venmo:
-",,,,,"https://www.gofundme.com/f/maggie-maes-covid-19-relief-fund-smb",,,,
+","bar","11104","2020-05-29T17:32:14.000Z","Open","https://www.gofundme.com/f/maggie-maes-covid-19-relief-fund-smb",,,,,"Order by texting 347-394-6414 before 2pm, pre-pay by Venmo:
+",,,,,,,,
 "Maple Thai Eatery",815,"2020-04-09T04:00:00.000Z","(718) 707-0407","https://maple-thai-eatery.business.site/","Queensbridge-Ravenswood-Long Island City","Restaurants, Bars, Cafes & Bakeries",40.754533,-73.925718,"3602 36th Ave, Astoria","call for hours
-","meal_delivery,restaurant,food","11106","2020-05-29T17:32:14.000Z","Follow-up",,"Yes","Yes",,,,,,,,,,,
+","meal_delivery,restaurant,food","11106","2020-05-29T17:32:14.000Z","Follow-up",,,"Yes","Yes",,,,,,,,,,
 "Mangal Kebab",816,"2020-04-09T04:00:00.000Z","(718) 706-0605","https://www.mangalkabobmenu.com/","Hunters Point-Sunnyside-West Maspeth","Restaurants, Bars, Cafes & Bakeries",40.742774,-73.918016,"46-20 Queens Blvd, Sunnyside","call for hours
-","meal_delivery,meal_takeaway,restaurant,food","11377","2020-05-29T17:32:14.000Z","Follow-up",,"Yes","Yes",,,,,,,,,,,
+","meal_delivery,meal_takeaway,restaurant,food","11377","2020-05-29T17:32:14.000Z","Follow-up",,,"Yes","Yes",,,,,,,,,,
 "Marabella Pizza",817,"2020-04-28T04:00:00.000Z","(718) 786-4635","http://www.marabellapizzamenu.com/","Hunters Point-Sunnyside-West Maspeth","Restaurants, Bars, Cafes & Bakeries",40.740275,-73.923846,"4107 Greenpoint Ave, Sunnyside","call for hours
 ","meal_delivery,restaurant,food","11104","2020-05-29T17:32:14.000Z","Follow-up",,,,,,,,,,,,,,
 "Mr. Wonton Chinese Restaurant",818,"2020-04-28T04:00:00.000Z","(718) 433-0228","http://www.mrwontonsunnyside.com/","Hunters Point-Sunnyside-West Maspeth","Restaurants, Bars, Cafes & Bakeries",40.743622,-73.919996,"2405 4411 Queens Blvd, Sunnyside","
-","meal_delivery,restaurant,food","11104","2020-05-29T17:32:14.000Z","Open",,"Yes","No",,"Pick up only with orders placed by phone, 718-433-2672 or 718-433-0228. Cash only.
-",,,,,,,,,
+","meal_delivery,restaurant,food","11104","2020-05-29T17:32:14.000Z","Open",,,"Yes","No",,"Pick up only with orders placed by phone, 718-433-2672 or 718-433-0228. Cash only.
+",,,,,,,,
 "Oasis Restaurant",819,"2020-04-09T04:00:00.000Z","(718) 786-4976","https://www.oasispizzany.com/menu","Hunters Point-Sunnyside-West Maspeth","Restaurants, Bars, Cafes & Bakeries",40.743399,-73.924187,"40-02 Queens Blvd, Sunnyside","
-","meal_delivery,meal_takeaway,restaurant,food","11104","2020-05-29T17:32:14.000Z","Open",,"Yes","Yes",,,,,,,,,,,
+","meal_delivery,meal_takeaway,restaurant,food","11104","2020-05-29T17:32:14.000Z","Open",,,"Yes","Yes",,,,,,,,,,
 "Oki Japanese Restaurant",820,"2020-05-12T04:00:00.000Z","(718) 729-3666",,"Hunters Point-Sunnyside-West Maspeth","Restaurants, Bars, Cafes & Bakeries",40.743531,-73.918956,"45-11 Queens Blvd, Sunnyside","
-","restaurant,food","11104","2020-05-29T17:32:14.000Z","Open","Open daily from 12pm-9pm
-","Yes","No",,,,,,,,,,,
+","restaurant,food","11104","2020-05-29T17:32:14.000Z","Open",,"Open daily from 12pm-9pm
+","Yes","No",,,,,,,,,,
 "The Original American Chicken 2",821,"2020-04-11T04:00:00.000Z","(718) 433-9660","http://originalamericanchicken2.com/","Hunters Point-Sunnyside-West Maspeth","Restaurants, Bars, Cafes & Bakeries",40.743393,-73.923936,"40-12 Queens Blvd, Sunnyside","
-","restaurant,food","11104","2020-05-29T17:32:14.000Z","Open",,"Yes","Yes",,,,,,,,,,,
+","restaurant,food","11104","2020-05-29T17:32:14.000Z","Open",,,"Yes","Yes",,,,,,,,,,
 "Pecas y Mas",822,"2020-04-12T04:00:00.000Z","(718) 389-4443",,"Hunters Point-Sunnyside-West Maspeth","Restaurants, Bars, Cafes & Bakeries",40.741547,-73.920182,"4420 Greenpoint Ave, Sunnyside","
-","restaurant,food","11104","2020-05-29T17:32:14.000Z","Open",,"Yes","Yes",,,,,,,,,,,
+","restaurant,food","11104","2020-05-29T17:32:14.000Z","Open",,,"Yes","Yes",,,,,,,,,,
 "Pelicana Chicken",823,"2020-04-12T04:00:00.000Z","(718) 255-6650","www.instagram.com/p/B-FE6tGjFEV ","Hunters Point-Sunnyside-West Maspeth","Restaurants, Bars, Cafes & Bakeries",40.742709,-73.917509,"47-08 Greenpoint Ave, Sunnyside","
-","meal_delivery,restaurant,food","11377","2020-05-29T17:32:14.000Z","Open","11:30am-12 midnight
+","meal_delivery,restaurant,food","11377","2020-05-29T17:32:14.000Z","Open",,"11:30am-12 midnight
 ","Yes","Yes",,"Menu <http://pelicanausa.com/sunnyside/>
-",,,,,,,,,
+",,,,,,,,
 "Pete's Grill",824,"2020-04-12T04:00:00.000Z","(718) 937-2220","http://www.petesgrill.com/","Hunters Point-Sunnyside-West Maspeth","Restaurants, Bars, Cafes & Bakeries",40.743662,-73.925585,"14 Queens Blvd # 39, Queens","718-937-2220 TAKEOUT & DELIVERY <https://www.petesgrill.com/>
 ","restaurant,food","11104","2020-05-29T17:32:14.000Z","Open",,,,,,,,,,,,,,
 "Philomena's Pizza",825,"2020-06-01T04:00:00.000Z","(718) 255-1778"," www.instagram.com/philomenasqueens","Hunters Point-Sunnyside-West Maspeth","Restaurants, Bars, Cafes & Bakeries",40.743243,-73.922928,"4116 Queens Blvd, Sunnyside","
-","meal_delivery,restaurant,food","11104","2020-05-29T17:32:14.000Z","Open","4-9pm, 7 days a week.
+","meal_delivery,restaurant,food","11104","2020-05-29T17:32:14.000Z","Open",,"4-9pm, 7 days a week.
 ","Yes","Yes",,"DELIVERY via Caviar trycaviar.com within 5-block radius only. PICKUP orders must be prepaid online on [www.philomenasqueens.com][1] NOTE: no phone orders and no walk-ins. You must wait outside and order will be brought out to you.
 
   [1]: http://www.philomenasqueens.com
-",,,,,,,,,
+",,,,,,,,
 "Punda Tibetan",826,"2020-04-13T04:00:00.000Z","(718) 806-1845","https://punda-tibetan-restaurant.business.site/","Hunters Point-Sunnyside-West Maspeth","Restaurants, Bars, Cafes & Bakeries",40.742101,-73.925166,"3935 47th Ave, Sunnyside","
 ","restaurant,food","11104","2020-05-29T17:32:14.000Z","Open",,,,,,,,,,,,,,
 "Ricas Pupusas y Mas",827,"2020-04-13T04:00:00.000Z","(929) 296-0069"," www.instagram.com/p/B-nrzBshuX8/","Hunters Point-Sunnyside-West Maspeth","Restaurants, Bars, Cafes & Bakeries",40.73944,-73.918312,"47-55 47th St, Woodside","
-","restaurant,food","11377","2020-05-29T17:32:14.000Z","Open","Open 4 days/week Thu-Sat 12-9pm Sun 2-9pm
-",,,,,,,,,,,,,
+","restaurant,food","11377","2020-05-29T17:32:14.000Z","Open",,"Open 4 days/week Thu-Sat 12-9pm Sun 2-9pm
+",,,,,,,,,,,,
 "Riko Peruvian Cuisine",828,"2020-04-23T04:00:00.000Z","(718) 361-5721","http://www.rikoperuviancuisine.com/","Hunters Point-Sunnyside-West Maspeth","Restaurants, Bars, Cafes & Bakeries",40.741727,-73.919537,"45-23 Greenpoint Ave, Sunnyside","917-832-6758 [Closed at this time; order from Riko Sunnyside instead] TAKEOUT & DELIVERY  rotisserie chicken & Peruvian cuisine beer wine sangria cocktails Updates on Insta [www.instagram.com/rikorestaurants][1]  Order from website [www.rikoperuviancuisine.com][2]
 
   [1]: http://www.instagram.com/rikorestaurants
@@ -3015,13 +3016,13 @@
 "Vernon Blvd Pharmacy Inc",1890,"2020-05-02T04:00:00.000Z","(718) 361-7390","http://vernonblvdpharmacy.com/","Hunters Point-Sunnyside-West Maspeth","Pharmacies & General Stores",40.7436369,-73.9535474,"4815 Vernon Blvd, Long Island City","Call 718-361-7390
 ","Pharmacy,health","11101","2020-05-29T17:32:14.000Z",,,,,,,,,,,,,,,
 "Rite Aid",1891,"2020-04-09T04:00:00.000Z","(718) 426-7572","https://www.riteaid.com/locations/ny/woodside/50-15-roosevelt-avenue.html","Hunters Point-Sunnyside-West Maspeth","Pharmacies & General Stores",40.744057,-73.914465,"50-15 Roosevelt Ave, Queens","
-",,"11377","2020-05-29T17:32:14.000Z",," 7am-10pm; pharmacy 9am-9pm;
-",,,"9am – 10am",,,,,,,,,,
+",,"11377","2020-05-29T17:32:14.000Z",,," 7am-10pm; pharmacy 9am-9pm;
+",,,"9am – 10am",,,,,,,,,
 "Walgreens",1892,"2020-04-16T04:00:00.000Z","(718) 433-0941","https://www.walgreens.com/locator/walgreens-45-02+43rd+avenue-sunnyside-ny-11104/id=17681","Hunters Point-Sunnyside-West Maspeth","Pharmacies & General Stores",40.744883,-73.919158,"45-02 43rd Ave, Sunnyside","Daily 9am-9pm
 ","drugstore,convenience_store,Pharmacy,food,health","11104","2020-05-29T17:32:14.000Z",,,,,,,,,,,,,,,
 "Rite Aid",1893,"2020-04-16T04:00:00.000Z","(718) 639-3234","https://www.riteaid.com/locations/ny/woodside/60-26-woodside-avenue.html","Woodside","Pharmacies & General Stores",40.744682,-73.903707,"60-26 Woodside Ave, Queens","
-",,"11377","2020-05-29T17:32:14.000Z",,"7am-10pm; pharmacy 9am-9pm;
-",,,"9am – 10am",,,,,,,,,,
+",,"11377","2020-05-29T17:32:14.000Z",,,"7am-10pm; pharmacy 9am-9pm;
+",,,"9am – 10am",,,,,,,,,
 "Walgreen's",1894,"2020-04-16T04:00:00.000Z","(718) 779-6431","https://www.walgreens.com/locator/walgreens-5801+queens+blvd-woodside-ny-11377/id=19959","Woodside","Pharmacies & General Stores",40.745265,-73.904231,"58-01 Queens Blvd, Woodside","Daily 9am-9pm, Seniors only every Tuesday 8am-9am, call to confirm (718) 476-8379
 ","drugstore,convenience_store,Pharmacy,food,health","11377","2020-05-29T17:32:14.000Z",,,,,,,,,,,,,,,
 "Skillman Pharmacy",1895,,"(718) 565-5454",,"Hunters Point-Sunnyside-West Maspeth","Pharmacies & General Stores",40.745892,-73.914098,"50-6 Skillman Ave, Woodside","Mon-Fri 10am-7pm (Closed Sat-Sun) SUPPORT this local small biz pharmacy
@@ -3061,8 +3062,8 @@
 "Prime RX Pharmacy Inc",1911,"2020-04-22T04:00:00.000Z","(718) 296-0202","http://www.vital.com/","Woodhaven","Pharmacies & General Stores",40.691678,-73.865896,"75-17 Jamaica Ave, Jamaica","(718) 296-0202
 ","Pharmacy,health","11421","2020-05-29T17:32:14.000Z",,,,,,,,,,,,,,,
 "Rite Aid",1912,"2020-05-29T04:00:00.000Z","(718) 849-7777","https://www.riteaid.com/locations/ny/woodhaven/89-10-jamaica-avenue.html","Woodhaven","Pharmacies & General Stores",40.692503,-73.855115,"89-10 Jamaica Ave, Queens","
-",,"11421","2020-05-29T17:32:14.000Z",,"Open 24 Hours, Pharmacy 9:00 AM - 9:00 PM
-",,,"9am – 10am",,,,,,,,,,
+",,"11421","2020-05-29T17:32:14.000Z",,,"Open 24 Hours, Pharmacy 9:00 AM - 9:00 PM
+",,,"9am – 10am",,,,,,,,,
 "TS Friends Pharmacy",1913,"2020-04-22T04:00:00.000Z","(718) 374-3265",,"Woodhaven","Pharmacies & General Stores",40.692579,-73.856618,"8720 Jamaica Ave, Jamaica","+1 718-374-3265
 ","Pharmacy,health","11421","2020-05-29T17:32:14.000Z",,,,,,,,,,,,,,,
 "Woodhaven Chemist",1914,"2020-05-21T04:00:00.000Z","(718) 441-7111",,"Woodhaven","Pharmacies & General Stores",40.692504,-73.857315,"86-22 Jamaica Ave, Woodhaven","+1 718-441-7111 Mon-Thurs 9am-7pm Fri,Sun 9am-5pm Sat (closed)
@@ -3096,255 +3097,255 @@
 "Family Medical Office",1928,"2020-05-21T04:00:00.000Z","(718) 805-0037",,"Woodhaven","Doctor",40.6915175,-73.8657131,"7556 Jamaica Ave, Woodhaven","
 ","doctor,health","11421","2020-05-29T17:32:14.000Z",,,,,,,,,,,,,,,
 "Que Sabor Bakery Cafe",1930,"2020-06-02T00:19:00.000Z","17183963138","https://www.facebook.com/QueSabor/","Elmhurst","Restaurants, Bars, Cafes & Bakeries",,,"84-60 Grand Ave, Elmhurst","8am - 8pm daily - pick-up only
-","bakery","11373","2020-06-01T23:16:12.000Z","Open","
-",,,,,"Local",,,,,,,,
+","bakery","11373","2020-06-01T23:16:12.000Z","Open",,"
+",,,,,"Local",,,,,,,
 "Fay Da Bakery",1931,"2020-06-02T00:24:00.000Z","(718) 205-5835","http://www.fayda.com","Elmhurst","Restaurants, Bars, Cafes & Bakeries",,,"86-12 Justice Ave, Elmhurst","Mon-Fri, 7am - 4pm // Sat-Sun, 8am - 4pm
-","Bakery","11373","2020-06-02T00:19:28.000Z","Open",,"Yes","No",,"Buy Online
-","Local",,,,,,,,
+","Bakery","11373","2020-06-02T00:19:28.000Z","Open",,,"Yes","No",,"Buy Online
+","Local",,,,,,,
 "Joju Modern Vietnamese Sandwiches",1932,"2020-06-02T00:30:00.000Z","347-808-0887","https://www.jojuny.com/joju-elmhurst-menu","Elmhurst","Restaurants, Bars, Cafes & Bakeries",,,"83-25 Broadway, Elmhurst","Tues-Sun, 11AM - 8PM
-","Restaurant","11373","2020-06-02T00:23:35.000Z","Open",,"Yes","Yes",,,"Local",,,,,,,,
+","Restaurant","11373","2020-06-02T00:23:35.000Z","Open",,,"Yes","Yes",,,"Local",,,,,,,
 "Du Bois Pastry Shoppe",1933,"2020-06-02T00:38:00.000Z","(718) 426-8586","https://www.instagram.com/duboisnyc/?hl=en","Elmhurst","Restaurants, Bars, Cafes & Bakeries",,,"84-08 Broadway A, Elmhurst, NY 11373","7am - 8pm daily
-","Bakery","11373","2020-06-02T00:25:20.000Z","Open",,"Yes","No",,,"Local",,,,,,,,
+","Bakery","11373","2020-06-02T00:25:20.000Z","Open",,,"Yes","No",,,"Local",,,,,,,
 "Carniceria Colombia Meat Market",1934,"2020-06-02T00:39:00.000Z","+17186392501",,"Elmhurst","Groceries",,,"84-08 Broadway B, Elmhurst","
-","Butcher Shop","11373","2020-06-02T00:29:28.000Z","Open",,"No","No",,,"Local",,"Yes",,,,,,
-"New Golden Sparkling Inc. ""Kam-Lun"" Supermarket",1935,"2020-06-02T00:43:00.000Z","+17188988880",,"Elmhurst","Groceries",,,"8618 Broadway, Queens, NY 11373",,"Grocery Store","11373","2020-06-02T00:30:01.000Z","Open",,"No","No",,,"Local",,"Yes",,,,,,
-"Taiwanese Gourmet",1936,"2020-06-02T00:48:00.000Z","+17184294818","taiwanesegourmet.com","Elmhurst","Groceries",,,"8402 Broadway, Elmhurst, NY 11373",,"Grocery Store","11373","2020-06-02T00:48:26.000Z","Open",,"Yes (Call ahead)","Yes",,,"Local",,,,,,,,
-"7-Eleven",1937,"2020-06-03T04:00:00.000Z","(718) 631-8469",,"Douglas Manor-Douglaston-Little Neck",,40.766432,-73.74057,"246-15 Northern Boulevard Little Neck NY 11362",,"grocery market",,"2020-06-03T22:54:19.000Z","Open","24 hours
-",,,,,"Katelyn",,,,,"takeout/delivery",,,
-"Ace Bagels",1938,"2020-06-03T04:00:00.000Z","7182240014",,"Douglas Manor-Douglaston-Little Neck",,40.770898,-73.735585,"253-5 Northern Blvd, Little Neck, NY 11362",,"cafe",,"2020-06-03T22:54:19.000Z","Open","5:30am-7pm
-",,,,,"Katelyn",,,,,"takeout/delivery","UberEats",,
-"ACT Logistics",1939,"2020-06-03T04:00:00.000Z","7182258818",,"Douglas Manor-Douglaston-Little Neck",,40.770874,-73.734963,"253-10 Northern Boulevard Little Neck NY 11362",,"shipping",,"2020-06-03T22:54:19.000Z","Open","8:30am-5:30pm M-F
-",,,,,"Katelyn",,,,,,,,
-"Aegea",1940,"2020-06-03T04:00:00.000Z","7184234429","aegeagyros.com","Douglas Manor-Douglaston-Little Neck",,40.765626,-73.743994,"242-05 northern boulevard douglaston ny 11363",,"cafe",,"2020-06-03T22:54:19.000Z","Open","11am-10pm
-",,,,,"Katelyn",,,,,"delivery/takeout","Grubhub/Seamless",,
-"All Star Wine & Liquor",1941,"2020-06-03T04:00:00.000Z","7188190388","https://allstar-wine-liquor-llc.business.site/","Douglas Manor-Douglaston-Little Neck",,40.766899,-73.738634,"248-12 Northern Boulevard Little Neck NY 11362",,,,"2020-06-03T22:54:19.000Z","Open","12-6pm Wed-Sun
-",,,,,"Katelyn",,,,"call to confirm","pickup",,,
-"Aunt Bella's",1942,"2020-06-03T04:00:00.000Z","7182254700","https://auntbellasln.wixsite.com/auntbellaslittleneck","Douglas Manor-Douglaston-Little Neck",,40.766994,-73.73634,"46-19 Marathon Parkway Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:19.000Z","closed",,,,,,"Katelyn",,,,,,,,
-"Bean & Bean Cafe",1943,"2020-06-03T04:00:00.000Z","347-235-0534","https://www.beannbeancoffee.com/","Douglas Manor-Douglaston-Little Neck",,40.77051,-73.73614,"252-29 northern boulevard little neck ny 11362",,"cafe",,"2020-06-03T22:54:19.000Z","cafe closed but coffee available for shipping online",,,,,,"Katelyn",,,,,"shipping",,,
-"Best Garden Chinese Restaurant",1944,"2020-06-03T04:00:00.000Z","7186311888","https://www.bestgardendouglaston.com/#/","Douglas Manor-Douglaston-Little Neck",,40.765713,-73.744372,"44-35 douglaston parkway douglaston ny 11363",,"cafe",,"2020-06-03T22:54:19.000Z","closed",,,,,,"Katelyn",,,,,,,,
-"Boccocini",1945,"2020-06-03T04:00:00.000Z","718) 423-1192",,"Douglas Manor-Douglaston-Little Neck",,40.771909,-73.734777,"254-19 Northern Blvd, Little Neck, NY 11362",,"cafe",,"2020-06-03T22:54:19.000Z","open","11am-10pm
-",,,,,"Katelyn",,,,,"takeout/delivery","Grubhub/Seamless",,
-"Cafe 1 of a Kind",1946,"2020-06-03T04:00:00.000Z","3474084780",,"Douglas Manor-Douglaston-Little Neck",,40.772427,-73.734348,"255-13 northern boulevard little neck ny 11362",,"cafe",,"2020-06-03T22:54:19.000Z","open","10am-6pm, closed Tuesday
-",,,,,"Katelyn",,,,,"takeout as of 5/1",,,
-"Cai's Wine and Liquor",1947,"2020-06-03T04:00:00.000Z","7182259463","https://cais-winesliquors.business.site/","Douglas Manor-Douglaston-Little Neck",,40.771632,-73.735001,"254-13 Northern Boulevard Little Neck NY 11362",,,,"2020-06-03T22:54:19.000Z","closed",,,,,,"Katelyn",,,,,,,,
-"Carvel",1948,"2020-06-03T04:00:00.000Z","7182793832","https://www.carvel.com/ny/little-neck/2521-ice-cream","Douglas Manor-Douglaston-Little Neck",,40.760295,-73.731322,"249-00 Horace Harding Expressway Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:19.000Z","open","11:30am-9:30pm
-",,,,,"Katelyn",,,,,"takeout","UberEats",,
-"Centre Pizza",1949,"2020-06-03T04:00:00.000Z","(718) 229-9879","https://centrepizzeriany.com/","Douglas Manor-Douglaston-Little Neck",,40.765209,-73.725747,"254-25 Horace Harding Expy, Little Neck, NY 11362",,"pizza",,"2020-06-03T22:54:19.000Z","open","11am-8pm
-",,,,,"Katelyn",,,,,"takeout/delivery",,,
-"Chase",1950,"2020-06-03T04:00:00.000Z","7184233203",,"Douglas Manor-Douglaston-Little Neck",,40.77042,-73.73531,"252-34 Northern Boulevard Little Neck NY 11362",,"bank",,"2020-06-03T22:54:19.000Z","closed",,,,,,"Katelyn",,,,"safe deposit box access available",,,,
-"Chase",1951,"2020-06-03T04:00:00.000Z","7187674382",,"Douglas Manor-Douglaston-Little Neck",,40.759869,-73.731211,"56-21 Marathon Parkway Little Neck NY 11362",,"bank",,"2020-06-03T22:54:19.000Z","open","9:30am-4pm M-Fri, 9:30am-12pm Sat
-",,,,,"Katelyn",,,,,,,,
-"Chipotle",1952,"2020-06-03T04:00:00.000Z","7182244220",,"Douglas Manor-Douglaston-Little Neck",,40.765209,-73.725747,"254-65 Horace Harding Expressway Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:19.000Z","open","2pm-8pm
-",,,,,"Katelyn",,,,,"takeout/delivery",,,
-"Cress Florist",1953,"2020-06-03T04:00:00.000Z","(718) 423-6255","http://cressflowers.com/","Douglas Manor-Douglaston-Little Neck",,40.766702,-73.738875,"248-02 Northern Blvd, Douglaston, NY 11362",,"florist",,"2020-06-03T22:54:19.000Z","open","call for deliveries
-",,,,,"Katelyn",,,,,"delivery",,,
-"CVS Pharmacy",1954,"2020-06-03T04:00:00.000Z","(718) 225-0864",,"Douglas Manor-Douglaston-Little Neck",,40.765626,-73.743994,"242 24 Northern Blvd, Douglaston, NY 11363",,"pharmacy",,"2020-06-03T22:54:19.000Z","open","8am-8pm, Wednesday 9am-10am for vulnerable guests and caregivers
-",,,,,"Katelyn",,,,,,,,
-"Dae Han Meat",1955,"2020-06-03T04:00:00.000Z","(718) 428-6750",,"Douglas Manor-Douglaston-Little Neck",,40.769703,-73.735943,"252-04 Northern Boulevard Little Neck NY 11362",,"grocery market",,"2020-06-03T22:54:19.000Z","open","9:30am-8pm
-",,,,,"Katelyn",,,,,"pickup",,,
-"Dana Pharmacy",1956,"2020-06-03T04:00:00.000Z","7182243233",,"Douglas Manor-Douglaston-Little Neck",,40.766899,-73.738634,"248-12 Northern Boulevard Little Neck NY 11362",,"pharmacy",,"2020-06-03T22:54:19.000Z","open","9am-5pm Mon-Sat
-",,,,,"Katelyn",,,,"call to confirm hours",,,,
-"Douglaston Delicatessen",1957,"2020-06-03T04:00:00.000Z","7186313353",,"Douglas Manor-Douglaston-Little Neck",,40.765959,-73.74468,"44-23 Douglaston Parkway Douglaston NY 11363",,"grocery market",,"2020-06-03T22:54:19.000Z","open","8am-7pm M-F, 8am-3pm Sat
-",,,,,"Katelyn",,,,,"delivery/curbside pickup","UberEats/Doordash/Grubhub",,
-"Douglaston Liquors & Wine",1958,"2020-06-03T04:00:00.000Z","7182240100",,"Douglas Manor-Douglaston-Little Neck",,40.765618,-73.744288,"44-41 douglaston parkway douglaston ny 11363",,,,"2020-06-03T22:54:19.000Z","open","10am-7:30pm M-Sat, 12-7pm Sun.
-",,,,,"Katelyn",,,,,"pickup/delivery","Drizly",,
-"Dragon Express",1959,"2020-06-03T04:00:00.000Z","7184285500",,"Douglas Manor-Douglaston-Little Neck",,40.767557,-73.748038,"42-36 235th st douglaston ny 11363",,"cafe",,"2020-06-03T22:54:19.000Z","open","2pm-8pm delivery, 11am-8pm takeout
-",,,,,"Katelyn",,,,,"takeout/delivery","Seamless/Grubhub",,
-"Duane Reade",1960,"2020-06-03T04:00:00.000Z","(718) 747-0180",,"Douglas Manor-Douglaston-Little Neck",,40.760572,-73.730748,"24946 Horace Harding Expy, Queens, NY 11362",,"pharmacy",,"2020-06-03T22:54:19.000Z","open","9am-9pm
-",,,,,"Katelyn",,,,,,,,
-"Dunkin",1961,"2020-06-03T04:00:00.000Z","7182250513",,"Douglas Manor-Douglaston-Little Neck",,40.767427,-73.739129,"248-09 Northern Boulevard Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:19.000Z","open","7am-2pm
-",,,,,"Katelyn",,,,,"mobile order pickup/drivethrough",,,
-"East Coast Fishing",1962,"2020-06-03T04:00:00.000Z","7186312196","https://www.fishingeastcoast.com/","Douglas Manor-Douglaston-Little Neck",,40.771756,-73.734201,"254-20 Northern Boulevard Little Neck NY 11362",,"fishing",,"2020-06-03T22:54:19.000Z","open","call for appointment
-",,,,,"Katelyn",,,,,"pickup",,,
-"Fairway",1963,"2020-06-03T04:00:00.000Z","(718) 423-2100",,"Douglas Manor-Douglaston-Little Neck",,40.754659,-73.738534,"242-02 61st Ave, Douglaston, NY 11362",,"grocery market",,"2020-06-03T22:54:19.000Z","open","8am-11pm
-",,,,,"Katelyn",,,,,,,,
-"Fancy Doggy",1964,"2020-06-03T04:00:00.000Z","7184280717","https://fancy-doggy.business.site/","Douglas Manor-Douglaston-Little Neck",,40.768445,-73.737911,"249-15 Northern Boulevard Little Neck NY 11362",,"pet store",,"2020-06-03T22:54:19.000Z","open 5/6 & 5/9","5/6 & 5/9 by appointment only
-",,,,,"Katelyn",,,,,,,,
-"Five Guys",1965,"2020-06-03T04:00:00.000Z","7186312100","https://order.fiveguys.com/menu/little-neck/","Douglas Manor-Douglaston-Little Neck",,40.765209,-73.725747,"25455 Horace Harding Expy, Queens, NY 11362",,"cafe",,"2020-06-03T22:54:19.000Z","open","11am-10pm
-",,,,,"Katelyn",,,,,"takeout/delivery","UberEats/Grubhub/Seamless/Postmates",,
-"Florist Nabi",1966,"2020-06-03T04:00:00.000Z","7182869920",,"Douglas Manor-Douglaston-Little Neck",,40.765771,-73.744489,"44-29 Douglaston Parkway Douglaston NY 11363",,"florist",,"2020-06-03T22:54:19.000Z","open","2pm-7pm M-F, 9am-7pm Sat
-",,,,,"Katelyn",,,,,"pickup",,,
-"Gong Cha",1967,"2020-06-03T04:00:00.000Z","9174441637","https://www.gongchausa.com/ny-little-neck","Douglas Manor-Douglaston-Little Neck",,40.769958,-73.736472,"252-01 Northern Boulevard",,"cafe",,"2020-06-03T22:54:19.000Z","closed",,,,,,"Katelyn",,,,,,,,
-"Greek Islands",1968,"2020-06-03T04:00:00.000Z","7182795922",,"Douglas Manor-Douglaston-Little Neck",,40.771194,-73.735412,"253-17 northern boulevard little neck ny 11362",,"cafe",,"2020-06-03T22:54:19.000Z","open","12pm-9pm
-",,,,,"Katelyn",,,,"call to confirm","takeout/delivery","UberEats",,
-"HRC Home Reno Concept",1969,"2020-06-03T04:00:00.000Z","7188198663",,"Douglas Manor-Douglaston-Little Neck",,40.768432,-73.737987,"249-13 Northern Boulevard Little Neck NY 11362",,"home improvement",,"2020-06-03T22:54:19.000Z","open","by appointment only
-",,,,,"Katelyn",,,,,,,,
-"Hui lau shan",1970,"2020-06-03T04:00:00.000Z","(347) 235-4642",,"Douglas Manor-Douglaston-Little Neck",,40.772028,-73.733965,"255-06 Northern Blvd, Flushing, NY 11362",,"cafe",,"2020-06-03T22:54:19.000Z","closed",,,,,,"Katelyn",,,,,,,,
-"Il Bacco",1971,"2020-06-03T04:00:00.000Z","7182247657","http://ilbaccoristorante.com/","Douglas Manor-Douglaston-Little Neck",,40.771021,-73.734556,"253-24 northern boulevard little neck ny 11362",,"cafe",,"2020-06-03T22:54:19.000Z","closed",,,,,,"Katelyn",,,,"gift cards available for purchase at http://ilbaccoristorante.com/shop/",,,,
-"Il Sapore",1972,"2020-06-03T04:00:00.000Z","7182248009",,"Douglas Manor-Douglaston-Little Neck",,40.766101,-73.744854,"44-17 douglaston parkway douglaston ny 11363",,"pizza",,"2020-06-03T22:54:19.000Z","reopening 5/4","call for hours
-",,,,,"Katelyn",,,,"call for updates","delivery/takeout",,,
-"Il Toscano",1973,"2020-06-03T04:00:00.000Z","(718) 631-0300","http://iltoscanony.com/","Douglas Manor-Douglaston-Little Neck",,40.768354,-73.74841,"42-05 235th St, Douglaston, NY 11363",,"cafe",,"2020-06-03T22:54:19.000Z","closed except for Mother's day",,,,,,"Katelyn",,,,"Offering curbside pickup on Mother's Day special menu - must preorder by 5/8",,,,
-"Jian Restaurant",1974,"2020-06-03T04:00:00.000Z","(718) 229-1503","https://www.jianrestaurant.com/","Douglas Manor-Douglaston-Little Neck",,40.765209,-73.725747,"25435 Horace Harding Expy, Little Neck, NY 11362",,"cafe",,"2020-06-03T22:54:19.000Z","closed",,,,,,"Katelyn",,,,"call to confirm ",,,,
-"Jimmy's Shoe Repair",1975,"2020-06-03T04:00:00.000Z","7188067045",,"Douglas Manor-Douglaston-Little Neck",,40.768903,-73.748822,"40-47 235th St, Douglaston, NY 11363",,,,"2020-06-03T22:54:19.000Z","open","8:30am-6pm
-",,,,,"Katelyn",,,,,,,,
-"Joe's Pizza",1976,"2020-06-03T04:00:00.000Z","(718) 229-1300","https://www.joespizzapastany.com/","Douglas Manor-Douglaston-Little Neck",,40.760572,-73.730748,"5607 Marathon Pkwy, Little Neck, NY 11362",,"pizza",,"2020-06-03T22:54:19.000Z","open","12pm-6:30pm
-",,,,,"Katelyn",,,,,"takeout/delivery","Grubhub",,
-"Kebab House",1977,"2020-06-03T04:00:00.000Z","7182255318",,"Douglas Manor-Douglaston-Little Neck",,40.772245,-73.734506,"255-05 Northern Boulevard Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:19.000Z","open","11am-8pm
-",,,,,"Katelyn",,,,,"takeout/delivery","Grubhub/Seamless/UberEats",,
-"King Wok",1978,"2020-06-03T04:00:00.000Z","(718) 229-8828",,"Douglas Manor-Douglaston-Little Neck",,40.767761,-73.738745,"24825 Northern Blvd # 1I, Douglaston, NY 11362",,"cafe",,"2020-06-03T22:54:19.000Z","open","11am-10:30pm M-Sat
-",,,,,"Katelyn",,,,,"takeout/delivery","Postmates",,
-"La Baraka",1979,"2020-06-03T04:00:00.000Z","7184281461","http://labarakarest.com/","Douglas Manor-Douglaston-Little Neck",,40.772337,-73.734426,"255-09 Northern Boulevard Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:19.000Z","open","3-6pm Thurs-Sat
-",,,,,"Katelyn",,,,,"takeout",,,
-"La Grotta",1980,"2020-06-03T04:00:00.000Z","(718) 224-8899","lagrottarestaurant.com","Douglas Manor-Douglaston-Little Neck",,40.771585,-73.734393,"25412 Northern Blvd, Little Neck, NY 11362",,"cafe",,"2020-06-03T22:54:19.000Z","closed",,,,,,"Katelyn",,,,,,,,
-"Lima 33",1981,"2020-06-03T04:00:00.000Z","718) 225-4949",,"Douglas Manor-Douglaston-Little Neck",,40.771585,-73.734393,"254-04 Northern Blvd, Little Neck, NY 11362",,"cafe",,"2020-06-03T22:54:19.000Z","open as of 5/1","12pm-10:30pm
-",,,,,"Katelyn",,,,,"takeout","Doordash/Grubhub",,
-"Little Dumpling",1982,"2020-06-03T04:00:00.000Z","7182251178","https://www.littledumplingny.com/","Douglas Manor-Douglaston-Little Neck",,40.769999,-73.735519,"252-20 Northern Boulevard Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:19.000Z","closed",,,,,,"Katelyn",,,,,,,,
-"Little Neck Drug Store",1983,"2020-06-03T04:00:00.000Z","(718) 631-8787","https://www.greatnecklittleneckdrugstore.com/","Douglas Manor-Douglaston-Little Neck",,40.770127,-73.736401,"252-11 Northern Blvd, Little Neck, NY 11362",,"pharmacy",,"2020-06-03T22:54:19.000Z","open","M-Sat 9am-5pm
-",,,,,"Katelyn",,,,,,,,
-"Little Neck Laundromat",1984,"2020-06-03T04:00:00.000Z","718) 281-0603",,"Douglas Manor-Douglaston-Little Neck",,40.769958,-73.736472,"25201 Northern Blvd #3, Little Neck, NY 11362",,"laundromat",,"2020-06-03T22:54:19.000Z","open","10am-6pm beginning 5/4, closed Thursdays
-",,,,,"Katelyn",,,,,"dropoff",,,
-"Little Neck Wine & Liquor",1985,"2020-06-03T04:00:00.000Z","7182294600",,"Douglas Manor-Douglaston-Little Neck",,40.764621,-73.726387,"254-39 Horace Harding Expressway Little Neck NY 11362",,,,"2020-06-03T22:54:19.000Z","open","call to confirm hours
-",,,,,"Katelyn",,,,,,,,
-"Little Saigon Pho",1986,"2020-06-03T04:00:00.000Z","(718) 631-8000","https://www.littlesaigoncuisineny.com/","Douglas Manor-Douglaston-Little Neck",,40.771002,-73.735542,"25309 Northern Blvd, Little Neck, NY 11362",,"cafe",,"2020-06-03T22:54:19.000Z","open","12pm-8pm
-",,,,,"Katelyn",,,,,"takeout/delivery","Doordash",,
-"LN1380",1987,"2020-06-03T04:00:00.000Z","7182799888","https://www.ln1380.com/","Douglas Manor-Douglaston-Little Neck",,40.769197,-73.737038,"251-03 Northern Boulevard Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:20.000Z","open","11am-8pm
-",,,,,"Katelyn",,,,,"takeout",,,
-"Lovely Doggy",1988,"2020-06-03T04:00:00.000Z","7182252678",,"Douglas Manor-Douglaston-Little Neck",,40.766899,-73.738634,"248-12 Northern Boulevard Little Neck NY 11362",,"pet store",,"2020-06-03T22:54:20.000Z","open","call to confirm hours
-",,,,,"Katelyn",,,,,,,,
-"LSE Douglaston Laundromat",1989,"2020-06-03T04:00:00.000Z","7182241911",,"Douglas Manor-Douglaston-Little Neck",,40.766054,-73.744796,"44-19 Douglaston Parkway Douglaston NY 11363",,"laundromat",,"2020-06-03T22:54:20.000Z","open","8am-5pm Tues, Thurs, Sat
-",,,,,"Katelyn",,,,,"dropoff",,,
-"Marathon Food Shop",1990,"2020-06-03T04:00:00.000Z","(718) 229-1711",,"Douglas Manor-Douglaston-Little Neck",,40.768518,-73.7378,"24919 Northern Blvd, Little Neck, NY 11362",,"grocery market",,"2020-06-03T22:54:20.000Z","open","6am-3pm
-",,,,,"Katelyn",,,,"call to confirm hours","curbside pickup",,,
-"McDonald's ",1991,"2020-06-03T04:00:00.000Z","7182297701",,"Douglas Manor-Douglaston-Little Neck",,40.768898,-73.737548,"250-01 Northern Boulevard Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:20.000Z","open","24 hours
-",,,,,"Katelyn",,,,,"takeout/delivery","UberEats",,
-"Moduna Pharmacy",1992,"2020-06-03T04:00:00.000Z","5164415400",,"Douglas Manor-Douglaston-Little Neck",,40.771295,-73.73455,"253-34 Northern Boulevard Little Neck NY 11362",,"pharmacy",,"2020-06-03T22:54:20.000Z","open","9am-7pm Mon-Fri, 10am-5pm Sat/Sun
-",,,,,"Katelyn",,,,,,,,
-"Mom's Touch",1993,"2020-06-03T04:00:00.000Z","(718) 225-2545",,"Douglas Manor-Douglaston-Little Neck",,40.771847,-73.734122,"254-24 Northern Blvd, Little Neck, NY 11362",,"cafe",,"2020-06-03T22:54:20.000Z","open","11am-8pm, closed Monday & Tuesday
-",,,,,"Katelyn",,,,,"takeout/delivery",,,
-"Moo Shu",1994,"2020-06-03T04:00:00.000Z","(718) 224-3288","https://mooshuducktogo.com/","Douglas Manor-Douglaston-Little Neck",,40.771086,-73.73547,"253-13 Northern Boulevard Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:20.000Z","open","11am-9:30pm, closed Tuesdsys
-",,,,,"Katelyn",,,,,"takeout",,,
-"Nature Farm",1995,"2020-06-03T04:00:00.000Z","(718) 281-1183",,"Douglas Manor-Douglaston-Little Neck",,40.760572,-73.730748,"249-26 Horace Harding Expy, Little Neck, NY 11362",,"grocery market",,"2020-06-03T22:54:20.000Z","open","9am-3pm
-",,,,,"Katelyn",,,,,,,,
-"New Polo Deli",1996,"2020-06-03T04:00:00.000Z","7184283030",,"Douglas Manor-Douglaston-Little Neck",,40.76947,-73.736168,"251-30 northern boulevard little neck ny 11362",,"grocery market",,"2020-06-03T22:54:20.000Z","open","call to confirm hours
-",,,,,"Katelyn",,,,,,,,
-"North Shore Sound and Vision",1997,"2020-06-03T04:00:00.000Z","7182240044",,"Douglas Manor-Douglaston-Little Neck",,40.771891,-73.734084,"254-26 Northern Boulevard Little Neck NY 11362",,"electronics",,"2020-06-03T22:54:20.000Z","closed",,,,,,"Katelyn",,,,,,,,
-"Northern Manor",1998,"2020-06-03T04:00:00.000Z","(718) 281-1500","http://www.northernmanor.us/","Douglas Manor-Douglaston-Little Neck",,40.769464,-73.73688,"251-15 Northern Blvd, Little Neck, NY 11362",,"cafe",,"2020-06-03T22:54:20.000Z","open","11am-8pm
-",,,,,"Katelyn",,,,,"takeout",,,
-"Panera Bread",1999,"2020-06-03T04:00:00.000Z","7182246320",,"Douglas Manor-Douglaston-Little Neck",,40.764786,-73.725994,"254-41 Horace Harding Expressway Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:20.000Z","open","6am-8pm
-",,,,,"Katelyn",,,,,"mobile order/delivery",,,
-"Parkway Diner",2000,"2020-06-03T04:00:00.000Z","7182240101","parkwaydinernyc.com","Douglas Manor-Douglaston-Little Neck",,40.76591,-73.744621,"44-25 douglaston parkway douglaston ny 11363",,"cafe",,"2020-06-03T22:54:20.000Z","open","9am-8pm
-",,,,,"Katelyn",,,,,"takeout/delivery","Grubhub/UberEats/Doordash",,
-"Personal Touch Dry Cleaner",2001,"2020-06-03T04:00:00.000Z","7184230015",,"Douglas Manor-Douglaston-Little Neck",,40.768903,-73.748822,"40-43 235th Street Douglaston NY 11363",,"laundromat",,"2020-06-03T22:54:20.000Z","open","8am-3pm Tues-Sat
-",,,,,"Katelyn",,,,,"dropoff",,,
-"Petco",2002,"2020-06-03T04:00:00.000Z","7182250342","https://stores.petco.com/ny/littleneck/pet-supplies-littleneck-ny-3764.html","Douglas Manor-Douglaston-Little Neck",,40.765044,-73.725667,"254-51 Horace Harding Expressway Little Nekc NY 11362",,"pet store",,"2020-06-03T22:54:20.000Z","open","10am-6pm
-",,,,,"Katelyn",,,,,"curbside pickup",,,
-"QQ Noodle House",2003,"2020-06-03T04:00:00.000Z","(718) 819-8205","https://www.qqnoodlehouseny.com/","Douglas Manor-Douglaston-Little Neck",,40.760289,-73.731369,"56-9 Marathon Pkwy, Little Neck, NY 11362",,"cafe",,"2020-06-03T22:54:20.000Z","closed",,,,,,"Katelyn",,,,"call to confirm",,,,
-"Queens county Savings Bank",2004,"2020-06-03T04:00:00.000Z","7182290535",,"Douglas Manor-Douglaston-Little Neck",,40.76971,-73.736603,"25131 Northern Boulevard Little Neck, NY 11362",,"bank",,"2020-06-03T22:54:20.000Z","open","M-F 9am-3pm, Sat 9am-1pm
-",,,,,"Katelyn",,,,,"drivethough/walkup window",,,
-"Queens county Savings Bank",2005,"2020-06-03T04:00:00.000Z","7184236456",,"Douglas Manor-Douglaston-Little Neck",,40.764115,-73.726427,"254-09 Horace Harding Expressway Little Neck NY 11362",,"bank",,"2020-06-03T22:54:20.000Z","open","M-F 9am-3pm, Sat 9am-1pm
-",,,,,"Katelyn",,,,,"drivethough/walkup window",,,
-"Red Lotus Cafe",2006,"2020-06-03T04:00:00.000Z","(718) 819-0288","http://www.redlotusbakery.com/","Douglas Manor-Douglaston-Little Neck",,40.772291,-73.734466,"25507 Northern Blvd #1461, Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:20.000Z","open","9am-6pm
-",,,,,"Katelyn",,,,"call to confirm","takeout",,,
-"Rolly",2007,"2020-06-03T04:00:00.000Z","7182290113",,"Douglas Manor-Douglaston-Little Neck",,40.769958,-73.736472,"252-01 Northern Boulevard Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:20.000Z","open","6am-8:30pm
-",,,,,"Katelyn",,,,,"takeout/delivery","Doordash",,
-"Sakuma",2008,"2020-06-03T04:00:00.000Z","7188192158","http://www.sakumanyc.com/","Douglas Manor-Douglaston-Little Neck",,40.769138,-73.736389,"251-20 Northern Boulevard Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:20.000Z","closed",,,,,,"Katelyn",,,,,,,,
-"SG Custom Sound",2009,"2020-06-03T04:00:00.000Z","7182245083",,"Douglas Manor-Douglaston-Little Neck",,40.768903,-73.748822,"40-33 235th Street Douglaston NY 11363",,"electronics",,"2020-06-03T22:54:20.000Z","open","10am-5pm Tues-Fri
-",,,,,"Katelyn",,,,,,,,
-"Shanghai Dumpling",2010,"2020-06-03T04:00:00.000Z","7182298788","https://www.shanghaidumplinglittleneck.com/","Douglas Manor-Douglaston-Little Neck",,40.76838,-73.738027,"249-11 Northern Boulevard Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:20.000Z","closed",,,,,,"Katelyn",,,,,,,,
-"Shinhan Bank",2011,"2020-06-03T04:00:00.000Z","7182817888",,"Douglas Manor-Douglaston-Little Neck",,40.769999,-73.735519,"252-20 Northern Boulevard Little Neck NY 11362",,"bank",,"2020-06-03T22:54:20.000Z","open","10am-3pm M-F
-",,,,,"Katelyn",,,,,,,,
-"Sifu Chio",2012,"2020-06-03T04:00:00.000Z","7182297398",,"Douglas Manor-Douglaston-Little Neck",,40.769379,-73.736179,"251-28 Northern Boulevard Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:20.000Z","closed",,,,,,"Katelyn",,,,,,,,
-"Slim's Bagels",2013,"2020-06-03T04:00:00.000Z","7186311345",,"Douglas Manor-Douglaston-Little Neck",,40.765209,-73.725747,"254-31 Horace Harding Expy, Little Neck, NY 11362",,"cafe",,"2020-06-03T22:54:20.000Z","not sure","call to confirm
-",,,,,"Katelyn",,,,"call to confirm whether open or closed",,,,
-"Starbucks",2014,"2020-06-03T04:00:00.000Z","7184282489",,"Douglas Manor-Douglaston-Little Neck",,40.764404,-73.726196,"254-21 Horace Harding Expressway Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:20.000Z","open","6am-6pm
-",,,,,"Katelyn",,,,,"mobile order pickup",,,
-"Sterling Cleaners",2015,"2020-06-03T04:00:00.000Z","6462583007",,"Douglas Manor-Douglaston-Little Neck",,40.767761,-73.738745,"248-25 Northern Boulevard Little Neck NY 11362",,"laundromat",,"2020-06-03T22:54:20.000Z","open","9am-3pm
-",,,,,"Katelyn",,,,"disinfectant available","dropoff by appointment only",,,
-"Stop & shop",2016,"2020-06-03T04:00:00.000Z","7184235601",,"Douglas Manor-Douglaston-Little Neck",,40.767393,-73.737385,"249-26 Northern Boulevard Little Neck NY 11362",,"grocery market",,"2020-06-03T22:54:20.000Z","open","7:30am-8pm
-",,,,,"Katelyn",,,,,,,,
-"SungBookDong BBQ",2017,"2020-06-03T04:00:00.000Z","7182247900","https://sungbookdong.com/","Douglas Manor-Douglaston-Little Neck",,40.767761,-73.738745,"248-25 Northern Boulevard Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:20.000Z","open","11am-10pm
-",,,,,"Katelyn",,,,,"takeout/delivery","Postmates",,
-"Sunny's Market",2018,"2020-06-03T04:00:00.000Z","(718) 279-7966",,"Douglas Manor-Douglaston-Little Neck",,40.759804,-73.731828,"5612 Marathon Pkwy, Flushing, NY 11362",,"grocery market",,"2020-06-03T22:54:20.000Z","closed",,,,,,"Katelyn",,,,"call to confirm whether open or closed",,,,
-"TD Bank",2019,"2020-06-03T04:00:00.000Z","7182250079",,"Douglas Manor-Douglaston-Little Neck",,40.765898,-73.741823,"244-05 Northern Boulevard Little Neck NY 11362",,"bank",,"2020-06-03T22:54:20.000Z","open","9:30am-4pm M-F, 9:30am-1pm Sat
-",,,,,"Katelyn",,,,,"drivethrough",,,
-"Teinei Ya",2020,"2020-06-03T04:00:00.000Z","7188192158",,"Douglas Manor-Douglaston-Little Neck",,40.769138,-73.736389,"251-20 Northern Boulevard Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:20.000Z","closed",,,,,,"Katelyn",,,,,,,,
-"Tokyo Go Go",2021,"2020-06-03T04:00:00.000Z","718) 224-1888","https://douglastontokyogogo.com/","Douglas Manor-Douglaston-Little Neck",,40.765616,-73.744128,"242-03 northern boulevard douglaston ny 11363",,"cafe",,"2020-06-03T22:54:20.000Z","open","11:30am-10pm
-",,,,,"Katelyn",,,,,"takeout (delivery starting 5/15)","UberEats",,
-"Toskana",2022,"2020-06-03T04:00:00.000Z","718-225-2887","https://www.toskanapizza.com/","Douglas Manor-Douglaston-Little Neck",,40.767761,-73.738745,"248-25 northern boulevard little neck ny 11362",,"cafe",,"2020-06-03T22:54:20.000Z","open","10am-10pm takeout, 10am-11:30pm delivery
-",,,,,"Katelyn",,,,,"takeout/delivery","Grubhub",,
-"UPS Store",2023,"2020-06-03T04:00:00.000Z","(718) 229-6513","https://locations.theupsstore.com/ny/little-neck/248-25-northern-blvd","Douglas Manor-Douglaston-Little Neck",,40.767766,-73.738674,"248-25 Northern Blvd Ste 1-J, Queens, NY 11362",,"shipping",,"2020-06-03T22:54:20.000Z","open","9am-7:30pm M-F, 10-5 Sat.
-",,,,,"Katelyn",,,,,,,,
-"USPS Post Office - Little Neck",2024,"2020-06-03T04:00:00.000Z","8002758777",,"Douglas Manor-Douglaston-Little Neck",,40.768382,-73.737056,"250-10 Northern Boulevard Little Neck NY 11362",,"shipping",,"2020-06-03T22:54:20.000Z","open","9am-5pm M-F, 9am-4pm Sat
-",,,,,"Katelyn",,,,,,,,
-"Verizon",2025,"2020-06-03T04:00:00.000Z","7182798282","https://www.verizonwireless.com/stores/new-york/little-neck/tcc-little-neck-1751122/#/storeDetails","Douglas Manor-Douglaston-Little Neck",,40.767761,-73.738745,"248-25 Northern Boulevard Little Neck NY 11362",,"electronics",,"2020-06-03T22:54:20.000Z","open","10am-6:30pm M-Sat, 11am-5:30pm Sun
-",,,,,"Katelyn",,,,,,,,
-"Bicycle Man: Repair & Sales",2027,"2020-06-03T04:00:00.000Z","(718) 706-0450",,"Astoria","Bicycle Shops",40.755305,-73.921297,"40-21a 35th Ave, Astoria, NY 11101",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN","Mon-Fri 11-4pm
-",,,,,"Katelyn",,,,,,,,
-"5 Hermanos Bike Shop",2028,"2020-06-03T04:00:00.000Z","(347) 358-3189",,"Astoria","Bicycle Shops",40.761021,-73.916058,"41-01 31st Ave, Astoria, NY 11103",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN","10am - 5pm everyday 
-",,,,,"Katelyn",,,,,,,,
-"Bike Stop Astoria",2029,"2020-06-03T04:00:00.000Z","(718) 278-2453",,"Astoria","Bicycle Shops",40.766075,-73.914491,"37-19 28th Ave, Astoria, NY 11103",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN","10am - 6pm everyday
-",,,,,"Katelyn",,,,,,,,
-"Tony's Bicycles",2030,"2020-06-03T04:00:00.000Z","(718) 278-3355",,"Astoria","Bicycle Shops",40.773101,-73.910766,"35-01 23rd Ave, Astoria, NY 11105",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN","Mon - Sat: 10am - 7pm
+","Butcher Shop","11373","2020-06-02T00:29:28.000Z","Open",,,"No","No",,,"Local",,"Yes",,,,,
+"New Golden Sparkling Inc. ""Kam-Lun"" Supermarket",1935,"2020-06-02T00:43:00.000Z","+17188988880",,"Elmhurst","Groceries",,,"8618 Broadway, Queens, NY 11373",,"Grocery Store","11373","2020-06-02T00:30:01.000Z","Open",,,"No","No",,,"Local",,"Yes",,,,,
+"Taiwanese Gourmet",1936,"2020-06-02T00:48:00.000Z","+17184294818","taiwanesegourmet.com","Elmhurst","Groceries",,,"8402 Broadway, Elmhurst, NY 11373",,"Grocery Store","11373","2020-06-02T00:48:26.000Z","Open",,,"Yes (Call ahead)","Yes",,,"Local",,,,,,,
+"7-Eleven",1937,"2020-06-03T04:00:00.000Z","(718) 631-8469",,"Douglas Manor-Douglaston-Little Neck",,40.766432,-73.74057,"246-15 Northern Boulevard Little Neck NY 11362",,"grocery market",,"2020-06-03T22:54:19.000Z","Open",,"24 hours
+",,,,,"Katelyn",,,,"takeout/delivery",,,
+"Ace Bagels",1938,"2020-06-03T04:00:00.000Z","7182240014",,"Douglas Manor-Douglaston-Little Neck",,40.770898,-73.735585,"253-5 Northern Blvd, Little Neck, NY 11362",,"cafe",,"2020-06-03T22:54:19.000Z","Open",,"5:30am-7pm
+",,,,,"Katelyn",,,,"takeout/delivery","UberEats",,
+"ACT Logistics",1939,"2020-06-03T04:00:00.000Z","7182258818",,"Douglas Manor-Douglaston-Little Neck",,40.770874,-73.734963,"253-10 Northern Boulevard Little Neck NY 11362",,"shipping",,"2020-06-03T22:54:19.000Z","Open",,"8:30am-5:30pm M-F
+",,,,,"Katelyn",,,,,,,
+"Aegea",1940,"2020-06-03T04:00:00.000Z","7184234429","aegeagyros.com","Douglas Manor-Douglaston-Little Neck",,40.765626,-73.743994,"242-05 northern boulevard douglaston ny 11363",,"cafe",,"2020-06-03T22:54:19.000Z","Open",,"11am-10pm
+",,,,,"Katelyn",,,,"delivery/takeout","Grubhub/Seamless",,
+"All Star Wine & Liquor",1941,"2020-06-03T04:00:00.000Z","7188190388","https://allstar-wine-liquor-llc.business.site/","Douglas Manor-Douglaston-Little Neck",,40.766899,-73.738634,"248-12 Northern Boulevard Little Neck NY 11362",,,,"2020-06-03T22:54:19.000Z","Open","call to confirm","12-6pm Wed-Sun
+",,,,,"Katelyn",,,,"pickup",,,
+"Aunt Bella's",1942,"2020-06-03T04:00:00.000Z","7182254700","https://auntbellasln.wixsite.com/auntbellaslittleneck","Douglas Manor-Douglaston-Little Neck",,40.766994,-73.73634,"46-19 Marathon Parkway Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:19.000Z","closed",,,,,,,"Katelyn",,,,,,,
+"Bean & Bean Cafe",1943,"2020-06-03T04:00:00.000Z","347-235-0534","https://www.beannbeancoffee.com/","Douglas Manor-Douglaston-Little Neck",,40.77051,-73.73614,"252-29 northern boulevard little neck ny 11362",,"cafe",,"2020-06-03T22:54:19.000Z","cafe closed but coffee available for shipping online",,,,,,,"Katelyn",,,,"shipping",,,
+"Best Garden Chinese Restaurant",1944,"2020-06-03T04:00:00.000Z","7186311888","https://www.bestgardendouglaston.com/#/","Douglas Manor-Douglaston-Little Neck",,40.765713,-73.744372,"44-35 douglaston parkway douglaston ny 11363",,"cafe",,"2020-06-03T22:54:19.000Z","closed",,,,,,,"Katelyn",,,,,,,
+"Boccocini",1945,"2020-06-03T04:00:00.000Z","718) 423-1192",,"Douglas Manor-Douglaston-Little Neck",,40.771909,-73.734777,"254-19 Northern Blvd, Little Neck, NY 11362",,"cafe",,"2020-06-03T22:54:19.000Z","open",,"11am-10pm
+",,,,,"Katelyn",,,,"takeout/delivery","Grubhub/Seamless",,
+"Cafe 1 of a Kind",1946,"2020-06-03T04:00:00.000Z","3474084780",,"Douglas Manor-Douglaston-Little Neck",,40.772427,-73.734348,"255-13 northern boulevard little neck ny 11362",,"cafe",,"2020-06-03T22:54:19.000Z","open",,"10am-6pm, closed Tuesday
+",,,,,"Katelyn",,,,"takeout as of 5/1",,,
+"Cai's Wine and Liquor",1947,"2020-06-03T04:00:00.000Z","7182259463","https://cais-winesliquors.business.site/","Douglas Manor-Douglaston-Little Neck",,40.771632,-73.735001,"254-13 Northern Boulevard Little Neck NY 11362",,,,"2020-06-03T22:54:19.000Z","closed",,,,,,,"Katelyn",,,,,,,
+"Carvel",1948,"2020-06-03T04:00:00.000Z","7182793832","https://www.carvel.com/ny/little-neck/2521-ice-cream","Douglas Manor-Douglaston-Little Neck",,40.760295,-73.731322,"249-00 Horace Harding Expressway Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:19.000Z","open",,"11:30am-9:30pm
+",,,,,"Katelyn",,,,"takeout","UberEats",,
+"Centre Pizza",1949,"2020-06-03T04:00:00.000Z","(718) 229-9879","https://centrepizzeriany.com/","Douglas Manor-Douglaston-Little Neck",,40.765209,-73.725747,"254-25 Horace Harding Expy, Little Neck, NY 11362",,"pizza",,"2020-06-03T22:54:19.000Z","open",,"11am-8pm
+",,,,,"Katelyn",,,,"takeout/delivery",,,
+"Chase",1950,"2020-06-03T04:00:00.000Z","7184233203",,"Douglas Manor-Douglaston-Little Neck",,40.77042,-73.73531,"252-34 Northern Boulevard Little Neck NY 11362",,"bank",,"2020-06-03T22:54:19.000Z","closed","safe deposit box access available",,,,,,"Katelyn",,,,,,,
+"Chase",1951,"2020-06-03T04:00:00.000Z","7187674382",,"Douglas Manor-Douglaston-Little Neck",,40.759869,-73.731211,"56-21 Marathon Parkway Little Neck NY 11362",,"bank",,"2020-06-03T22:54:19.000Z","open",,"9:30am-4pm M-Fri, 9:30am-12pm Sat
+",,,,,"Katelyn",,,,,,,
+"Chipotle",1952,"2020-06-03T04:00:00.000Z","7182244220",,"Douglas Manor-Douglaston-Little Neck",,40.765209,-73.725747,"254-65 Horace Harding Expressway Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:19.000Z","open",,"2pm-8pm
+",,,,,"Katelyn",,,,"takeout/delivery",,,
+"Cress Florist",1953,"2020-06-03T04:00:00.000Z","(718) 423-6255","http://cressflowers.com/","Douglas Manor-Douglaston-Little Neck",,40.766702,-73.738875,"248-02 Northern Blvd, Douglaston, NY 11362",,"florist",,"2020-06-03T22:54:19.000Z","open",,"call for deliveries
+",,,,,"Katelyn",,,,"delivery",,,
+"CVS Pharmacy",1954,"2020-06-03T04:00:00.000Z","(718) 225-0864",,"Douglas Manor-Douglaston-Little Neck",,40.765626,-73.743994,"242 24 Northern Blvd, Douglaston, NY 11363",,"pharmacy",,"2020-06-03T22:54:19.000Z","open",,"8am-8pm, Wednesday 9am-10am for vulnerable guests and caregivers
+",,,,,"Katelyn",,,,,,,
+"Dae Han Meat",1955,"2020-06-03T04:00:00.000Z","(718) 428-6750",,"Douglas Manor-Douglaston-Little Neck",,40.769703,-73.735943,"252-04 Northern Boulevard Little Neck NY 11362",,"grocery market",,"2020-06-03T22:54:19.000Z","open",,"9:30am-8pm
+",,,,,"Katelyn",,,,"pickup",,,
+"Dana Pharmacy",1956,"2020-06-03T04:00:00.000Z","7182243233",,"Douglas Manor-Douglaston-Little Neck",,40.766899,-73.738634,"248-12 Northern Boulevard Little Neck NY 11362",,"pharmacy",,"2020-06-03T22:54:19.000Z","open","call to confirm hours","9am-5pm Mon-Sat
+",,,,,"Katelyn",,,,,,,
+"Douglaston Delicatessen",1957,"2020-06-03T04:00:00.000Z","7186313353",,"Douglas Manor-Douglaston-Little Neck",,40.765959,-73.74468,"44-23 Douglaston Parkway Douglaston NY 11363",,"grocery market",,"2020-06-03T22:54:19.000Z","open",,"8am-7pm M-F, 8am-3pm Sat
+",,,,,"Katelyn",,,,"delivery/curbside pickup","UberEats/Doordash/Grubhub",,
+"Douglaston Liquors & Wine",1958,"2020-06-03T04:00:00.000Z","7182240100",,"Douglas Manor-Douglaston-Little Neck",,40.765618,-73.744288,"44-41 douglaston parkway douglaston ny 11363",,,,"2020-06-03T22:54:19.000Z","open",,"10am-7:30pm M-Sat, 12-7pm Sun.
+",,,,,"Katelyn",,,,"pickup/delivery","Drizly",,
+"Dragon Express",1959,"2020-06-03T04:00:00.000Z","7184285500",,"Douglas Manor-Douglaston-Little Neck",,40.767557,-73.748038,"42-36 235th st douglaston ny 11363",,"cafe",,"2020-06-03T22:54:19.000Z","open",,"2pm-8pm delivery, 11am-8pm takeout
+",,,,,"Katelyn",,,,"takeout/delivery","Seamless/Grubhub",,
+"Duane Reade",1960,"2020-06-03T04:00:00.000Z","(718) 747-0180",,"Douglas Manor-Douglaston-Little Neck",,40.760572,-73.730748,"24946 Horace Harding Expy, Queens, NY 11362",,"pharmacy",,"2020-06-03T22:54:19.000Z","open",,"9am-9pm
+",,,,,"Katelyn",,,,,,,
+"Dunkin",1961,"2020-06-03T04:00:00.000Z","7182250513",,"Douglas Manor-Douglaston-Little Neck",,40.767427,-73.739129,"248-09 Northern Boulevard Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:19.000Z","open",,"7am-2pm
+",,,,,"Katelyn",,,,"mobile order pickup/drivethrough",,,
+"East Coast Fishing",1962,"2020-06-03T04:00:00.000Z","7186312196","https://www.fishingeastcoast.com/","Douglas Manor-Douglaston-Little Neck",,40.771756,-73.734201,"254-20 Northern Boulevard Little Neck NY 11362",,"fishing",,"2020-06-03T22:54:19.000Z","open",,"call for appointment
+",,,,,"Katelyn",,,,"pickup",,,
+"Fairway",1963,"2020-06-03T04:00:00.000Z","(718) 423-2100",,"Douglas Manor-Douglaston-Little Neck",,40.754659,-73.738534,"242-02 61st Ave, Douglaston, NY 11362",,"grocery market",,"2020-06-03T22:54:19.000Z","open",,"8am-11pm
+",,,,,"Katelyn",,,,,,,
+"Fancy Doggy",1964,"2020-06-03T04:00:00.000Z","7184280717","https://fancy-doggy.business.site/","Douglas Manor-Douglaston-Little Neck",,40.768445,-73.737911,"249-15 Northern Boulevard Little Neck NY 11362",,"pet store",,"2020-06-03T22:54:19.000Z","open 5/6 & 5/9",,"5/6 & 5/9 by appointment only
+",,,,,"Katelyn",,,,,,,
+"Five Guys",1965,"2020-06-03T04:00:00.000Z","7186312100","https://order.fiveguys.com/menu/little-neck/","Douglas Manor-Douglaston-Little Neck",,40.765209,-73.725747,"25455 Horace Harding Expy, Queens, NY 11362",,"cafe",,"2020-06-03T22:54:19.000Z","open",,"11am-10pm
+",,,,,"Katelyn",,,,"takeout/delivery","UberEats/Grubhub/Seamless/Postmates",,
+"Florist Nabi",1966,"2020-06-03T04:00:00.000Z","7182869920",,"Douglas Manor-Douglaston-Little Neck",,40.765771,-73.744489,"44-29 Douglaston Parkway Douglaston NY 11363",,"florist",,"2020-06-03T22:54:19.000Z","open",,"2pm-7pm M-F, 9am-7pm Sat
+",,,,,"Katelyn",,,,"pickup",,,
+"Gong Cha",1967,"2020-06-03T04:00:00.000Z","9174441637","https://www.gongchausa.com/ny-little-neck","Douglas Manor-Douglaston-Little Neck",,40.769958,-73.736472,"252-01 Northern Boulevard",,"cafe",,"2020-06-03T22:54:19.000Z","closed",,,,,,,"Katelyn",,,,,,,
+"Greek Islands",1968,"2020-06-03T04:00:00.000Z","7182795922",,"Douglas Manor-Douglaston-Little Neck",,40.771194,-73.735412,"253-17 northern boulevard little neck ny 11362",,"cafe",,"2020-06-03T22:54:19.000Z","open","call to confirm","12pm-9pm
+",,,,,"Katelyn",,,,"takeout/delivery","UberEats",,
+"HRC Home Reno Concept",1969,"2020-06-03T04:00:00.000Z","7188198663",,"Douglas Manor-Douglaston-Little Neck",,40.768432,-73.737987,"249-13 Northern Boulevard Little Neck NY 11362",,"home improvement",,"2020-06-03T22:54:19.000Z","open",,"by appointment only
+",,,,,"Katelyn",,,,,,,
+"Hui lau shan",1970,"2020-06-03T04:00:00.000Z","(347) 235-4642",,"Douglas Manor-Douglaston-Little Neck",,40.772028,-73.733965,"255-06 Northern Blvd, Flushing, NY 11362",,"cafe",,"2020-06-03T22:54:19.000Z","closed",,,,,,,"Katelyn",,,,,,,
+"Il Bacco",1971,"2020-06-03T04:00:00.000Z","7182247657","http://ilbaccoristorante.com/","Douglas Manor-Douglaston-Little Neck",,40.771021,-73.734556,"253-24 northern boulevard little neck ny 11362",,"cafe",,"2020-06-03T22:54:19.000Z","closed","gift cards available for purchase at http://ilbaccoristorante.com/shop/",,,,,,"Katelyn",,,,,,,
+"Il Sapore",1972,"2020-06-03T04:00:00.000Z","7182248009",,"Douglas Manor-Douglaston-Little Neck",,40.766101,-73.744854,"44-17 douglaston parkway douglaston ny 11363",,"pizza",,"2020-06-03T22:54:19.000Z","reopening 5/4","call for updates","call for hours
+",,,,,"Katelyn",,,,"delivery/takeout",,,
+"Il Toscano",1973,"2020-06-03T04:00:00.000Z","(718) 631-0300","http://iltoscanony.com/","Douglas Manor-Douglaston-Little Neck",,40.768354,-73.74841,"42-05 235th St, Douglaston, NY 11363",,"cafe",,"2020-06-03T22:54:19.000Z","closed except for Mother's day","Offering curbside pickup on Mother's Day special menu - must preorder by 5/8",,,,,,"Katelyn",,,,,,,
+"Jian Restaurant",1974,"2020-06-03T04:00:00.000Z","(718) 229-1503","https://www.jianrestaurant.com/","Douglas Manor-Douglaston-Little Neck",,40.765209,-73.725747,"25435 Horace Harding Expy, Little Neck, NY 11362",,"cafe",,"2020-06-03T22:54:19.000Z","closed","call to confirm ",,,,,,"Katelyn",,,,,,,
+"Jimmy's Shoe Repair",1975,"2020-06-03T04:00:00.000Z","7188067045",,"Douglas Manor-Douglaston-Little Neck",,40.768903,-73.748822,"40-47 235th St, Douglaston, NY 11363",,,,"2020-06-03T22:54:19.000Z","open",,"8:30am-6pm
+",,,,,"Katelyn",,,,,,,
+"Joe's Pizza",1976,"2020-06-03T04:00:00.000Z","(718) 229-1300","https://www.joespizzapastany.com/","Douglas Manor-Douglaston-Little Neck",,40.760572,-73.730748,"5607 Marathon Pkwy, Little Neck, NY 11362",,"pizza",,"2020-06-03T22:54:19.000Z","open",,"12pm-6:30pm
+",,,,,"Katelyn",,,,"takeout/delivery","Grubhub",,
+"Kebab House",1977,"2020-06-03T04:00:00.000Z","7182255318",,"Douglas Manor-Douglaston-Little Neck",,40.772245,-73.734506,"255-05 Northern Boulevard Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:19.000Z","open",,"11am-8pm
+",,,,,"Katelyn",,,,"takeout/delivery","Grubhub/Seamless/UberEats",,
+"King Wok",1978,"2020-06-03T04:00:00.000Z","(718) 229-8828",,"Douglas Manor-Douglaston-Little Neck",,40.767761,-73.738745,"24825 Northern Blvd # 1I, Douglaston, NY 11362",,"cafe",,"2020-06-03T22:54:19.000Z","open",,"11am-10:30pm M-Sat
+",,,,,"Katelyn",,,,"takeout/delivery","Postmates",,
+"La Baraka",1979,"2020-06-03T04:00:00.000Z","7184281461","http://labarakarest.com/","Douglas Manor-Douglaston-Little Neck",,40.772337,-73.734426,"255-09 Northern Boulevard Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:19.000Z","open",,"3-6pm Thurs-Sat
+",,,,,"Katelyn",,,,"takeout",,,
+"La Grotta",1980,"2020-06-03T04:00:00.000Z","(718) 224-8899","lagrottarestaurant.com","Douglas Manor-Douglaston-Little Neck",,40.771585,-73.734393,"25412 Northern Blvd, Little Neck, NY 11362",,"cafe",,"2020-06-03T22:54:19.000Z","closed",,,,,,,"Katelyn",,,,,,,
+"Lima 33",1981,"2020-06-03T04:00:00.000Z","718) 225-4949",,"Douglas Manor-Douglaston-Little Neck",,40.771585,-73.734393,"254-04 Northern Blvd, Little Neck, NY 11362",,"cafe",,"2020-06-03T22:54:19.000Z","open as of 5/1",,"12pm-10:30pm
+",,,,,"Katelyn",,,,"takeout","Doordash/Grubhub",,
+"Little Dumpling",1982,"2020-06-03T04:00:00.000Z","7182251178","https://www.littledumplingny.com/","Douglas Manor-Douglaston-Little Neck",,40.769999,-73.735519,"252-20 Northern Boulevard Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:19.000Z","closed",,,,,,,"Katelyn",,,,,,,
+"Little Neck Drug Store",1983,"2020-06-03T04:00:00.000Z","(718) 631-8787","https://www.greatnecklittleneckdrugstore.com/","Douglas Manor-Douglaston-Little Neck",,40.770127,-73.736401,"252-11 Northern Blvd, Little Neck, NY 11362",,"pharmacy",,"2020-06-03T22:54:19.000Z","open",,"M-Sat 9am-5pm
+",,,,,"Katelyn",,,,,,,
+"Little Neck Laundromat",1984,"2020-06-03T04:00:00.000Z","718) 281-0603",,"Douglas Manor-Douglaston-Little Neck",,40.769958,-73.736472,"25201 Northern Blvd #3, Little Neck, NY 11362",,"laundromat",,"2020-06-03T22:54:19.000Z","open",,"10am-6pm beginning 5/4, closed Thursdays
+",,,,,"Katelyn",,,,"dropoff",,,
+"Little Neck Wine & Liquor",1985,"2020-06-03T04:00:00.000Z","7182294600",,"Douglas Manor-Douglaston-Little Neck",,40.764621,-73.726387,"254-39 Horace Harding Expressway Little Neck NY 11362",,,,"2020-06-03T22:54:19.000Z","open",,"call to confirm hours
+",,,,,"Katelyn",,,,,,,
+"Little Saigon Pho",1986,"2020-06-03T04:00:00.000Z","(718) 631-8000","https://www.littlesaigoncuisineny.com/","Douglas Manor-Douglaston-Little Neck",,40.771002,-73.735542,"25309 Northern Blvd, Little Neck, NY 11362",,"cafe",,"2020-06-03T22:54:19.000Z","open",,"12pm-8pm
+",,,,,"Katelyn",,,,"takeout/delivery","Doordash",,
+"LN1380",1987,"2020-06-03T04:00:00.000Z","7182799888","https://www.ln1380.com/","Douglas Manor-Douglaston-Little Neck",,40.769197,-73.737038,"251-03 Northern Boulevard Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:20.000Z","open",,"11am-8pm
+",,,,,"Katelyn",,,,"takeout",,,
+"Lovely Doggy",1988,"2020-06-03T04:00:00.000Z","7182252678",,"Douglas Manor-Douglaston-Little Neck",,40.766899,-73.738634,"248-12 Northern Boulevard Little Neck NY 11362",,"pet store",,"2020-06-03T22:54:20.000Z","open",,"call to confirm hours
+",,,,,"Katelyn",,,,,,,
+"LSE Douglaston Laundromat",1989,"2020-06-03T04:00:00.000Z","7182241911",,"Douglas Manor-Douglaston-Little Neck",,40.766054,-73.744796,"44-19 Douglaston Parkway Douglaston NY 11363",,"laundromat",,"2020-06-03T22:54:20.000Z","open",,"8am-5pm Tues, Thurs, Sat
+",,,,,"Katelyn",,,,"dropoff",,,
+"Marathon Food Shop",1990,"2020-06-03T04:00:00.000Z","(718) 229-1711",,"Douglas Manor-Douglaston-Little Neck",,40.768518,-73.7378,"24919 Northern Blvd, Little Neck, NY 11362",,"grocery market",,"2020-06-03T22:54:20.000Z","open","call to confirm hours","6am-3pm
+",,,,,"Katelyn",,,,"curbside pickup",,,
+"McDonald's ",1991,"2020-06-03T04:00:00.000Z","7182297701",,"Douglas Manor-Douglaston-Little Neck",,40.768898,-73.737548,"250-01 Northern Boulevard Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:20.000Z","open",,"24 hours
+",,,,,"Katelyn",,,,"takeout/delivery","UberEats",,
+"Moduna Pharmacy",1992,"2020-06-03T04:00:00.000Z","5164415400",,"Douglas Manor-Douglaston-Little Neck",,40.771295,-73.73455,"253-34 Northern Boulevard Little Neck NY 11362",,"pharmacy",,"2020-06-03T22:54:20.000Z","open",,"9am-7pm Mon-Fri, 10am-5pm Sat/Sun
+",,,,,"Katelyn",,,,,,,
+"Mom's Touch",1993,"2020-06-03T04:00:00.000Z","(718) 225-2545",,"Douglas Manor-Douglaston-Little Neck",,40.771847,-73.734122,"254-24 Northern Blvd, Little Neck, NY 11362",,"cafe",,"2020-06-03T22:54:20.000Z","open",,"11am-8pm, closed Monday & Tuesday
+",,,,,"Katelyn",,,,"takeout/delivery",,,
+"Moo Shu",1994,"2020-06-03T04:00:00.000Z","(718) 224-3288","https://mooshuducktogo.com/","Douglas Manor-Douglaston-Little Neck",,40.771086,-73.73547,"253-13 Northern Boulevard Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:20.000Z","open",,"11am-9:30pm, closed Tuesdsys
+",,,,,"Katelyn",,,,"takeout",,,
+"Nature Farm",1995,"2020-06-03T04:00:00.000Z","(718) 281-1183",,"Douglas Manor-Douglaston-Little Neck",,40.760572,-73.730748,"249-26 Horace Harding Expy, Little Neck, NY 11362",,"grocery market",,"2020-06-03T22:54:20.000Z","open",,"9am-3pm
+",,,,,"Katelyn",,,,,,,
+"New Polo Deli",1996,"2020-06-03T04:00:00.000Z","7184283030",,"Douglas Manor-Douglaston-Little Neck",,40.76947,-73.736168,"251-30 northern boulevard little neck ny 11362",,"grocery market",,"2020-06-03T22:54:20.000Z","open",,"call to confirm hours
+",,,,,"Katelyn",,,,,,,
+"North Shore Sound and Vision",1997,"2020-06-03T04:00:00.000Z","7182240044",,"Douglas Manor-Douglaston-Little Neck",,40.771891,-73.734084,"254-26 Northern Boulevard Little Neck NY 11362",,"electronics",,"2020-06-03T22:54:20.000Z","closed",,,,,,,"Katelyn",,,,,,,
+"Northern Manor",1998,"2020-06-03T04:00:00.000Z","(718) 281-1500","http://www.northernmanor.us/","Douglas Manor-Douglaston-Little Neck",,40.769464,-73.73688,"251-15 Northern Blvd, Little Neck, NY 11362",,"cafe",,"2020-06-03T22:54:20.000Z","open",,"11am-8pm
+",,,,,"Katelyn",,,,"takeout",,,
+"Panera Bread",1999,"2020-06-03T04:00:00.000Z","7182246320",,"Douglas Manor-Douglaston-Little Neck",,40.764786,-73.725994,"254-41 Horace Harding Expressway Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:20.000Z","open",,"6am-8pm
+",,,,,"Katelyn",,,,"mobile order/delivery",,,
+"Parkway Diner",2000,"2020-06-03T04:00:00.000Z","7182240101","parkwaydinernyc.com","Douglas Manor-Douglaston-Little Neck",,40.76591,-73.744621,"44-25 douglaston parkway douglaston ny 11363",,"cafe",,"2020-06-03T22:54:20.000Z","open",,"9am-8pm
+",,,,,"Katelyn",,,,"takeout/delivery","Grubhub/UberEats/Doordash",,
+"Personal Touch Dry Cleaner",2001,"2020-06-03T04:00:00.000Z","7184230015",,"Douglas Manor-Douglaston-Little Neck",,40.768903,-73.748822,"40-43 235th Street Douglaston NY 11363",,"laundromat",,"2020-06-03T22:54:20.000Z","open",,"8am-3pm Tues-Sat
+",,,,,"Katelyn",,,,"dropoff",,,
+"Petco",2002,"2020-06-03T04:00:00.000Z","7182250342","https://stores.petco.com/ny/littleneck/pet-supplies-littleneck-ny-3764.html","Douglas Manor-Douglaston-Little Neck",,40.765044,-73.725667,"254-51 Horace Harding Expressway Little Nekc NY 11362",,"pet store",,"2020-06-03T22:54:20.000Z","open",,"10am-6pm
+",,,,,"Katelyn",,,,"curbside pickup",,,
+"QQ Noodle House",2003,"2020-06-03T04:00:00.000Z","(718) 819-8205","https://www.qqnoodlehouseny.com/","Douglas Manor-Douglaston-Little Neck",,40.760289,-73.731369,"56-9 Marathon Pkwy, Little Neck, NY 11362",,"cafe",,"2020-06-03T22:54:20.000Z","closed","call to confirm",,,,,,"Katelyn",,,,,,,
+"Queens county Savings Bank",2004,"2020-06-03T04:00:00.000Z","7182290535",,"Douglas Manor-Douglaston-Little Neck",,40.76971,-73.736603,"25131 Northern Boulevard Little Neck, NY 11362",,"bank",,"2020-06-03T22:54:20.000Z","open",,"M-F 9am-3pm, Sat 9am-1pm
+",,,,,"Katelyn",,,,"drivethough/walkup window",,,
+"Queens county Savings Bank",2005,"2020-06-03T04:00:00.000Z","7184236456",,"Douglas Manor-Douglaston-Little Neck",,40.764115,-73.726427,"254-09 Horace Harding Expressway Little Neck NY 11362",,"bank",,"2020-06-03T22:54:20.000Z","open",,"M-F 9am-3pm, Sat 9am-1pm
+",,,,,"Katelyn",,,,"drivethough/walkup window",,,
+"Red Lotus Cafe",2006,"2020-06-03T04:00:00.000Z","(718) 819-0288","http://www.redlotusbakery.com/","Douglas Manor-Douglaston-Little Neck",,40.772291,-73.734466,"25507 Northern Blvd #1461, Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:20.000Z","open","call to confirm","9am-6pm
+",,,,,"Katelyn",,,,"takeout",,,
+"Rolly",2007,"2020-06-03T04:00:00.000Z","7182290113",,"Douglas Manor-Douglaston-Little Neck",,40.769958,-73.736472,"252-01 Northern Boulevard Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:20.000Z","open",,"6am-8:30pm
+",,,,,"Katelyn",,,,"takeout/delivery","Doordash",,
+"Sakuma",2008,"2020-06-03T04:00:00.000Z","7188192158","http://www.sakumanyc.com/","Douglas Manor-Douglaston-Little Neck",,40.769138,-73.736389,"251-20 Northern Boulevard Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:20.000Z","closed",,,,,,,"Katelyn",,,,,,,
+"SG Custom Sound",2009,"2020-06-03T04:00:00.000Z","7182245083",,"Douglas Manor-Douglaston-Little Neck",,40.768903,-73.748822,"40-33 235th Street Douglaston NY 11363",,"electronics",,"2020-06-03T22:54:20.000Z","open",,"10am-5pm Tues-Fri
+",,,,,"Katelyn",,,,,,,
+"Shanghai Dumpling",2010,"2020-06-03T04:00:00.000Z","7182298788","https://www.shanghaidumplinglittleneck.com/","Douglas Manor-Douglaston-Little Neck",,40.76838,-73.738027,"249-11 Northern Boulevard Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:20.000Z","closed",,,,,,,"Katelyn",,,,,,,
+"Shinhan Bank",2011,"2020-06-03T04:00:00.000Z","7182817888",,"Douglas Manor-Douglaston-Little Neck",,40.769999,-73.735519,"252-20 Northern Boulevard Little Neck NY 11362",,"bank",,"2020-06-03T22:54:20.000Z","open",,"10am-3pm M-F
+",,,,,"Katelyn",,,,,,,
+"Sifu Chio",2012,"2020-06-03T04:00:00.000Z","7182297398",,"Douglas Manor-Douglaston-Little Neck",,40.769379,-73.736179,"251-28 Northern Boulevard Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:20.000Z","closed",,,,,,,"Katelyn",,,,,,,
+"Slim's Bagels",2013,"2020-06-03T04:00:00.000Z","7186311345",,"Douglas Manor-Douglaston-Little Neck",,40.765209,-73.725747,"254-31 Horace Harding Expy, Little Neck, NY 11362",,"cafe",,"2020-06-03T22:54:20.000Z","not sure","call to confirm whether open or closed","call to confirm
+",,,,,"Katelyn",,,,,,,
+"Starbucks",2014,"2020-06-03T04:00:00.000Z","7184282489",,"Douglas Manor-Douglaston-Little Neck",,40.764404,-73.726196,"254-21 Horace Harding Expressway Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:20.000Z","open",,"6am-6pm
+",,,,,"Katelyn",,,,"mobile order pickup",,,
+"Sterling Cleaners",2015,"2020-06-03T04:00:00.000Z","6462583007",,"Douglas Manor-Douglaston-Little Neck",,40.767761,-73.738745,"248-25 Northern Boulevard Little Neck NY 11362",,"laundromat",,"2020-06-03T22:54:20.000Z","open","disinfectant available","9am-3pm
+",,,,,"Katelyn",,,,"dropoff by appointment only",,,
+"Stop & shop",2016,"2020-06-03T04:00:00.000Z","7184235601",,"Douglas Manor-Douglaston-Little Neck",,40.767393,-73.737385,"249-26 Northern Boulevard Little Neck NY 11362",,"grocery market",,"2020-06-03T22:54:20.000Z","open",,"7:30am-8pm
+",,,,,"Katelyn",,,,,,,
+"SungBookDong BBQ",2017,"2020-06-03T04:00:00.000Z","7182247900","https://sungbookdong.com/","Douglas Manor-Douglaston-Little Neck",,40.767761,-73.738745,"248-25 Northern Boulevard Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:20.000Z","open",,"11am-10pm
+",,,,,"Katelyn",,,,"takeout/delivery","Postmates",,
+"Sunny's Market",2018,"2020-06-03T04:00:00.000Z","(718) 279-7966",,"Douglas Manor-Douglaston-Little Neck",,40.759804,-73.731828,"5612 Marathon Pkwy, Flushing, NY 11362",,"grocery market",,"2020-06-03T22:54:20.000Z","closed","call to confirm whether open or closed",,,,,,"Katelyn",,,,,,,
+"TD Bank",2019,"2020-06-03T04:00:00.000Z","7182250079",,"Douglas Manor-Douglaston-Little Neck",,40.765898,-73.741823,"244-05 Northern Boulevard Little Neck NY 11362",,"bank",,"2020-06-03T22:54:20.000Z","open",,"9:30am-4pm M-F, 9:30am-1pm Sat
+",,,,,"Katelyn",,,,"drivethrough",,,
+"Teinei Ya",2020,"2020-06-03T04:00:00.000Z","7188192158",,"Douglas Manor-Douglaston-Little Neck",,40.769138,-73.736389,"251-20 Northern Boulevard Little Neck NY 11362",,"cafe",,"2020-06-03T22:54:20.000Z","closed",,,,,,,"Katelyn",,,,,,,
+"Tokyo Go Go",2021,"2020-06-03T04:00:00.000Z","718) 224-1888","https://douglastontokyogogo.com/","Douglas Manor-Douglaston-Little Neck",,40.765616,-73.744128,"242-03 northern boulevard douglaston ny 11363",,"cafe",,"2020-06-03T22:54:20.000Z","open",,"11:30am-10pm
+",,,,,"Katelyn",,,,"takeout (delivery starting 5/15)","UberEats",,
+"Toskana",2022,"2020-06-03T04:00:00.000Z","718-225-2887","https://www.toskanapizza.com/","Douglas Manor-Douglaston-Little Neck",,40.767761,-73.738745,"248-25 northern boulevard little neck ny 11362",,"cafe",,"2020-06-03T22:54:20.000Z","open",,"10am-10pm takeout, 10am-11:30pm delivery
+",,,,,"Katelyn",,,,"takeout/delivery","Grubhub",,
+"UPS Store",2023,"2020-06-03T04:00:00.000Z","(718) 229-6513","https://locations.theupsstore.com/ny/little-neck/248-25-northern-blvd","Douglas Manor-Douglaston-Little Neck",,40.767766,-73.738674,"248-25 Northern Blvd Ste 1-J, Queens, NY 11362",,"shipping",,"2020-06-03T22:54:20.000Z","open",,"9am-7:30pm M-F, 10-5 Sat.
+",,,,,"Katelyn",,,,,,,
+"USPS Post Office - Little Neck",2024,"2020-06-03T04:00:00.000Z","8002758777",,"Douglas Manor-Douglaston-Little Neck",,40.768382,-73.737056,"250-10 Northern Boulevard Little Neck NY 11362",,"shipping",,"2020-06-03T22:54:20.000Z","open",,"9am-5pm M-F, 9am-4pm Sat
+",,,,,"Katelyn",,,,,,,
+"Verizon",2025,"2020-06-03T04:00:00.000Z","7182798282","https://www.verizonwireless.com/stores/new-york/little-neck/tcc-little-neck-1751122/#/storeDetails","Douglas Manor-Douglaston-Little Neck",,40.767761,-73.738745,"248-25 Northern Boulevard Little Neck NY 11362",,"electronics",,"2020-06-03T22:54:20.000Z","open",,"10am-6:30pm M-Sat, 11am-5:30pm Sun
+",,,,,"Katelyn",,,,,,,
+"Bicycle Man: Repair & Sales",2027,"2020-06-03T04:00:00.000Z","(718) 706-0450",,"Astoria","Bicycle Shops",40.755305,-73.921297,"40-21a 35th Ave, Astoria, NY 11101",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN",,"Mon-Fri 11-4pm
+",,,,,"Katelyn",,,,,,,
+"5 Hermanos Bike Shop",2028,"2020-06-03T04:00:00.000Z","(347) 358-3189",,"Astoria","Bicycle Shops",40.761021,-73.916058,"41-01 31st Ave, Astoria, NY 11103",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN",,"10am - 5pm everyday 
+",,,,,"Katelyn",,,,,,,
+"Bike Stop Astoria",2029,"2020-06-03T04:00:00.000Z","(718) 278-2453",,"Astoria","Bicycle Shops",40.766075,-73.914491,"37-19 28th Ave, Astoria, NY 11103",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN",,"10am - 6pm everyday
+",,,,,"Katelyn",,,,,,,
+"Tony's Bicycles",2030,"2020-06-03T04:00:00.000Z","(718) 278-3355",,"Astoria","Bicycle Shops",40.773101,-73.910766,"35-01 23rd Ave, Astoria, NY 11105",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN",,"Mon - Sat: 10am - 7pm
 Sun: 10am - 6pm
-",,,,,"Katelyn",,,,,,,,
+",,,,,"Katelyn",,,,,,,
 "Roberts Bicycles ",2031,"2020-06-07T04:00:00.000Z","(718) 353-5432",,"Auburndale / Bayside","Bicycle Shops",40.767089,-73.78991,"33-13 Francis Lewis Blvd, Flushing, NY 11358","Please wear a mask or face covering inside the store. If you do not we will serve you outside.
 
 Only 2 people allowed in the store a time.
 Line closes 45 minutes prior to closing.
-","bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN","Mon Wed Fri: CLOSED
+","bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN",,"Mon Wed Fri: CLOSED
 Tue Thu Sat: 10am-4:30 Sun 11:30-4pm
-",,,,,"Zhi","Hours here http://www.robertsbicycles.net/Contact_Us.htm",,,,,,,
-"LC Bicycle Repair",2032,"2020-06-03T04:00:00.000Z","(347) 981-9040",,"Corona","Bicycle Shops",40.753212,-73.865385,"35-45 102 St, Corona, NY 11368",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN","1030am - 8pm everyday
-",,,,,"Katelyn",,,,,,,,
-"Peak Bicycle Pro",2033,"2020-06-03T04:00:00.000Z","(718) 225-5119",,"Douglaston","Bicycle Shops",40.767506,-73.747906,"42-42 235th St, Douglaston, NY 11363",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN","Tues: CLOSED                Wed-Mon 11am-5 pm 
-",,,,,"Katelyn","https://www.facebook.com/peak.bikes.9/posts/2795442690540398",,,,,,,
-"Monkey Bike #2",2034,"2020-06-03T04:00:00.000Z","929-331-3169 / 929-257-8470",,"East Elmhurst","Bicycle Shops",40.757258,-73.866355,"33-03 102nd St, Corona, NY, 11368",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN","10am - 8pm everyday
-",,,,,"Katelyn",,,,,,,,
-"Atilxc",2035,"2020-06-03T04:00:00.000Z","917-294-1806",,"Jackson Heights","Bicycle Shops",40.746377,-73.893955,"71-24 Roosevelt Ave, Jackson Heights, NY 11372",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN","9am - 8pm everyday
-",,,,,"Katelyn",,,,,,,,
-"Hospital De Bicicletas",2036,"2020-06-03T04:00:00.000Z","(929) 257-5884",,"Jackson Heights","Bicycle Shops",40.748911,-73.873881,"37-64 93rd St, Jackson Heights, NY 11372",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","CLOSED until further notice","9am - 6pm everyday
-",,,,,"Katelyn",,,,,,,,
-"Cigi Bicycle Shop",2037,"2020-06-03T04:00:00.000Z","(718) 457-1093",,"Jackson Heights","Bicycle Shops",40.750889,-73.875629,"91-07 37th Ave, Jackson Heights, NY 11372",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN","Mon - Sat: 10am - 7pm
+",,,,,"Zhi","Hours here http://www.robertsbicycles.net/Contact_Us.htm",,,,,,
+"LC Bicycle Repair",2032,"2020-06-03T04:00:00.000Z","(347) 981-9040",,"Corona","Bicycle Shops",40.753212,-73.865385,"35-45 102 St, Corona, NY 11368",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN",,"1030am - 8pm everyday
+",,,,,"Katelyn",,,,,,,
+"Peak Bicycle Pro",2033,"2020-06-03T04:00:00.000Z","(718) 225-5119",,"Douglaston","Bicycle Shops",40.767506,-73.747906,"42-42 235th St, Douglaston, NY 11363",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN",,"Tues: CLOSED                Wed-Mon 11am-5 pm 
+",,,,,"Katelyn","https://www.facebook.com/peak.bikes.9/posts/2795442690540398",,,,,,
+"Monkey Bike #2",2034,"2020-06-03T04:00:00.000Z","929-331-3169 / 929-257-8470",,"East Elmhurst","Bicycle Shops",40.757258,-73.866355,"33-03 102nd St, Corona, NY, 11368",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN",,"10am - 8pm everyday
+",,,,,"Katelyn",,,,,,,
+"Atilxc",2035,"2020-06-03T04:00:00.000Z","917-294-1806",,"Jackson Heights","Bicycle Shops",40.746377,-73.893955,"71-24 Roosevelt Ave, Jackson Heights, NY 11372",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN",,"9am - 8pm everyday
+",,,,,"Katelyn",,,,,,,
+"Hospital De Bicicletas",2036,"2020-06-03T04:00:00.000Z","(929) 257-5884",,"Jackson Heights","Bicycle Shops",40.748911,-73.873881,"37-64 93rd St, Jackson Heights, NY 11372",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","CLOSED until further notice",,"9am - 6pm everyday
+",,,,,"Katelyn",,,,,,,
+"Cigi Bicycle Shop",2037,"2020-06-03T04:00:00.000Z","(718) 457-1093",,"Jackson Heights","Bicycle Shops",40.750889,-73.875629,"91-07 37th Ave, Jackson Heights, NY 11372",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN",,"Mon - Sat: 10am - 7pm
 Sun: 12pm - 5pm
-",,,,,"Katelyn",,,,,,,,
-"Belittle Bicycles",2038,"2020-06-03T04:00:00.000Z","EMAIL RECOMMENDED (718) 739-3795",,"Jamaica","Bicycle Shops",40.706836,-73.789945,"169-20 Jamaica Ave, Jamaica, NY 11432",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN","Mon - Sat: 10am - 6pm
+",,,,,"Katelyn",,,,,,,
+"Belittle Bicycles",2038,"2020-06-03T04:00:00.000Z","EMAIL RECOMMENDED (718) 739-3795",,"Jamaica","Bicycle Shops",40.706836,-73.789945,"169-20 Jamaica Ave, Jamaica, NY 11432",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN",,"Mon - Sat: 10am - 6pm
 Sun: CLOSED
-",,,,,"Katelyn","BellitteBicycles@yahoo.com",,,,,,,
-"Grays Bicycles & Accessories",2039,"2020-06-03T04:00:00.000Z","(718) 441-9767",,"Kew Gardens","Bicycle Shops",40.706798,-73.832059,"8234 Lefferts Blvd, Queens, NY 11415",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","No answer on phone","11am - 6pm everyday
-",,,,,"Katelyn",,,,,,,,
-"Spokesman Cycles",2040,"2020-06-03T04:00:00.000Z","(718) 433-0450",,"LIC","Bicycle Shops",40.743279,-73.954186,"49-04 Vernon Blvd, Long Island City, NY 11101",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN","Mon - Sat 10am - 6pm  
+",,,,,"Katelyn","BellitteBicycles@yahoo.com",,,,,,
+"Grays Bicycles & Accessories",2039,"2020-06-03T04:00:00.000Z","(718) 441-9767",,"Kew Gardens","Bicycle Shops",40.706798,-73.832059,"8234 Lefferts Blvd, Queens, NY 11415",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","No answer on phone",,"11am - 6pm everyday
+",,,,,"Katelyn",,,,,,,
+"Spokesman Cycles",2040,"2020-06-03T04:00:00.000Z","(718) 433-0450",,"LIC","Bicycle Shops",40.743279,-73.954186,"49-04 Vernon Blvd, Long Island City, NY 11101",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN",,"Mon - Sat 10am - 6pm  
 Sun 11am - 4pm  
-",,,,,"Katelyn",,,,,,,,
-"Grand Bicycle Center",2041,"2020-06-03T04:00:00.000Z","(718) 779-4691",,"Maspeth","Bicycle Shops",40.727785,-73.892705,"7013 Grand Ave, Maspeth, NY 11378",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN","Mon - Sun: 12pm - 6pm
-",,,,,"Katelyn","grandbicyclecenter@gmail.com",,,,,,,
-"Bushwick Cycles Inc",2042,"2020-06-03T04:00:00.000Z","347-227-8058",,"Middle Village","Bicycle Shops",40.714518,-73.900885,"6103 Fresh Pond Rd, Middle Village, NY 11379",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN","Mon - Sat: 10am - 6pm
+",,,,,"Katelyn",,,,,,,
+"Grand Bicycle Center",2041,"2020-06-03T04:00:00.000Z","(718) 779-4691",,"Maspeth","Bicycle Shops",40.727785,-73.892705,"7013 Grand Ave, Maspeth, NY 11378",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN",,"Mon - Sun: 12pm - 6pm
+",,,,,"Katelyn","grandbicyclecenter@gmail.com",,,,,,
+"Bushwick Cycles Inc",2042,"2020-06-03T04:00:00.000Z","347-227-8058",,"Middle Village","Bicycle Shops",40.714518,-73.900885,"6103 Fresh Pond Rd, Middle Village, NY 11379",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN",,"Mon - Sat: 10am - 6pm
 Sun: CLOSED
-",,,,,"Katelyn","bushwickcyclesinc@gmail.com",,,,,,,
-"Twin Bicycle & Sporting Goods",2043,"2020-06-03T04:00:00.000Z","(718) 326-7725",,"Middle Village","Bicycle Shops",40.712766,-73.876925,"7520 Metropolitan Ave, Middle Village, NY 11379",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN","11am - 7pm everyday
-",,,,,"Katelyn",,,,,,,,
-"Bicycle Barn ",2044,"2020-06-03T04:00:00.000Z","(718) 479-3119",,"Queens Village","Bicycle Shops",40.7095,-73.738171,"107-34 Springfield Blvd Queens Village NY 11429",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN","Mon - Wed 9:30am - 5pm
+",,,,,"Katelyn","bushwickcyclesinc@gmail.com",,,,,,
+"Twin Bicycle & Sporting Goods",2043,"2020-06-03T04:00:00.000Z","(718) 326-7725",,"Middle Village","Bicycle Shops",40.712766,-73.876925,"7520 Metropolitan Ave, Middle Village, NY 11379",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN",,"11am - 7pm everyday
+",,,,,"Katelyn",,,,,,,
+"Bicycle Barn ",2044,"2020-06-03T04:00:00.000Z","(718) 479-3119",,"Queens Village","Bicycle Shops",40.7095,-73.738171,"107-34 Springfield Blvd Queens Village NY 11429",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN",,"Mon - Wed 9:30am - 5pm
 Thurs - Fri 10am - 5pm
 Sat 9:30am - 3pm
 Sun CLOSED
-",,,,,"Katelyn",,,,,,,,
-"Spin City Cycle",2045,"2020-06-03T04:00:00.000Z","(718) 896-8850",,"Rego Park","Bicycle Shops",40.727971,-73.855459,"98-73 Queens Blvd, Rego Park, NY 11374",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN","Mon & Tues: CLOSED
+",,,,,"Katelyn",,,,,,,
+"Spin City Cycle",2045,"2020-06-03T04:00:00.000Z","(718) 896-8850",,"Rego Park","Bicycle Shops",40.727971,-73.855459,"98-73 Queens Blvd, Rego Park, NY 11374",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN",,"Mon & Tues: CLOSED
 Wed & Fri: 11am - 7pm
 Thurs: CLOSED 
 Sat & Sun: 11am - 5pm
-",,,,,"Katelyn",,,,,,,,
-"Arc De Triomphe Bicycles",2046,"2020-06-03T04:00:00.000Z","(718) 846-2099",,"Richmond Hill","Bicycle Shops",40.698564,-73.834816,"114-01 Jamaica Ave, Richmond Hill, NY 11418",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN","Mon 11:30am - 6:30pm 
+",,,,,"Katelyn",,,,,,,
+"Arc De Triomphe Bicycles",2046,"2020-06-03T04:00:00.000Z","(718) 846-2099",,"Richmond Hill","Bicycle Shops",40.698564,-73.834816,"114-01 Jamaica Ave, Richmond Hill, NY 11418",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN",,"Mon 11:30am - 6:30pm 
 Tue CLOSED
 Wed - Thu 11:30am - 6:30pm
 Fri - Sun CLOSED
-",,,,,"Katelyn","https://adt-bike-skate-shop.constantcontactsites.com/",,,,,,,
-"Spokesman Cycles",2047,"2020-06-03T04:00:00.000Z","(718) 366-0450",,"Ridgewood","Bicycle Shops",40.703372,-73.865463,"83-03 Myrtle Ave, Ridgewood, NY 11385",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","Open","Mon - Sat 10am - 6pm  
+",,,,,"Katelyn","https://adt-bike-skate-shop.constantcontactsites.com/",,,,,,
+"Spokesman Cycles",2047,"2020-06-03T04:00:00.000Z","(718) 366-0450",,"Ridgewood","Bicycle Shops",40.703372,-73.865463,"83-03 Myrtle Ave, Ridgewood, NY 11385",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","Open",,"Mon - Sat 10am - 6pm  
 Sun 11am - 4pm  
-",,,,,"Katelyn",,,,,,,,
-"Paul's Bicycle Shop",2048,"2020-06-03T04:00:00.000Z","(718) 318-2000",,"Rockaway Beach","Bicycle Shops",40.578973,-73.83708,"163 B 116th St, Rockaway Park, NY 11694",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","Open","7 days 12pm - 4pm
-",,,,,"Katelyn",,,,,,,,
-"Rockaway Beach Cycles",2049,"2020-06-03T04:00:00.000Z","(718) 808-9221",,"Rockaway Beach","Bicycle Shops",40.583116,-73.822172,"101-19 Rockaway Beach Blvd, Queens, NY 11694",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","No answer on phone","Check their FB page
-",,,,,"Katelyn","https://www.facebook.com/rockawaybeachcycles/",,,,,,,
-"Mini Mall",2050,"2020-06-03T04:00:00.000Z","(718) 945-6787",,"Rockaway Beach","Bicycle Shops",40.578732,-73.849155,"430 Beach 129th St, Rockaway Park, NY 11694",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","No answer on phone","TKTK
-",,,,,"Katelyn",,,,,,,,
-"BikeLane Bicycle Store",2051,"2020-06-03T04:00:00.000Z","(718) 441-4011",,"Woodhaven","Bicycle Shops",40.69276,-73.858593,"85-13 Jamaica Ave, Woodhaven, NY 11421",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN","Open 12pm-6pm M,T, Th,F,S, Closed Wednesday, Sunday temporarily closed
-",,,,,"Katelyn",,,,,,,,
-"Bills Cyclery LLC",2052,"2020-06-03T04:00:00.000Z","(718) 335-1906",,"Woodside","Bicycle Shops",40.745703,-73.900465,"63-24 Roosevelt Ave, Woodside, NY 11377",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN","Mon - Sat: 12pm - 7pm
+",,,,,"Katelyn",,,,,,,
+"Paul's Bicycle Shop",2048,"2020-06-03T04:00:00.000Z","(718) 318-2000",,"Rockaway Beach","Bicycle Shops",40.578973,-73.83708,"163 B 116th St, Rockaway Park, NY 11694",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","Open",,"7 days 12pm - 4pm
+",,,,,"Katelyn",,,,,,,
+"Rockaway Beach Cycles",2049,"2020-06-03T04:00:00.000Z","(718) 808-9221",,"Rockaway Beach","Bicycle Shops",40.583116,-73.822172,"101-19 Rockaway Beach Blvd, Queens, NY 11694",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","No answer on phone",,"Check their FB page
+",,,,,"Katelyn","https://www.facebook.com/rockawaybeachcycles/",,,,,,
+"Mini Mall",2050,"2020-06-03T04:00:00.000Z","(718) 945-6787",,"Rockaway Beach","Bicycle Shops",40.578732,-73.849155,"430 Beach 129th St, Rockaway Park, NY 11694",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","No answer on phone",,"TKTK
+",,,,,"Katelyn",,,,,,,
+"BikeLane Bicycle Store",2051,"2020-06-03T04:00:00.000Z","(718) 441-4011",,"Woodhaven","Bicycle Shops",40.69276,-73.858593,"85-13 Jamaica Ave, Woodhaven, NY 11421",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN",,"Open 12pm-6pm M,T, Th,F,S, Closed Wednesday, Sunday temporarily closed
+",,,,,"Katelyn",,,,,,,
+"Bills Cyclery LLC",2052,"2020-06-03T04:00:00.000Z","(718) 335-1906",,"Woodside","Bicycle Shops",40.745703,-73.900465,"63-24 Roosevelt Ave, Woodside, NY 11377",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN",,"Mon - Sat: 12pm - 7pm
 Sun: 12pm - 5pm
-",,,,,"Katelyn",,,,,,,,
-"NY Electric Bike Shop",2053,"2020-06-03T04:00:00.000Z","(347) 348-2850",,"Woodside","Bicycle Shops",40.757325,-73.907889,"30-94 51st St, Woodside, NY 11377",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN","12pm -4pm, ""a little bit, we'll see"" 
-",,,,,"Katelyn",,,,,,,,
-"Bicycle Parts & Accessories",2054,"2020-06-03T04:00:00.000Z","(443) 939-5553",,"Woodside","Bicycle Shops",40.739468,-73.91867,"47-56 47 Street Woodside NY 11377",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN","11:00 AM - 8:00 PM
-",,,,,"Katelyn",,,,,,,,
+",,,,,"Katelyn",,,,,,,
+"NY Electric Bike Shop",2053,"2020-06-03T04:00:00.000Z","(347) 348-2850",,"Woodside","Bicycle Shops",40.757325,-73.907889,"30-94 51st St, Woodside, NY 11377",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN",,"12pm -4pm, ""a little bit, we'll see"" 
+",,,,,"Katelyn",,,,,,,
+"Bicycle Parts & Accessories",2054,"2020-06-03T04:00:00.000Z","(443) 939-5553",,"Woodside","Bicycle Shops",40.739468,-73.91867,"47-56 47 Street Woodside NY 11377",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","OPEN",,"11:00 AM - 8:00 PM
+",,,,,"Katelyn",,,,,,,
 "The Voices of Hagar",2055,,"Sonya Harvey: 917-941-5809",,"Jackson Heights","Pantry",40.756599,-73.87242,"95-18 Northern Blvd",,,"11372","2020-06-05T18:11:54.000Z",,,,,,,,,,,,,,,
 "ICNA Relief USA",2056,,"Osama Siddiqui/6/3-Ishaq: 718-658-7028",,"Jamaica","Pantry",40.70451,-73.811594,"87-91 144th Street",,,"11435","2020-06-05T18:11:54.000Z",,,,,,,,,,,,,,,
 "Murray Hill Neighborhood Association",2057,,"Ronald Mattioli: 917-868-5765; 717-333-0827",,"Flushing","Pantry",40.761727,-73.81269,"150-20 Barclay Avenue",,,"11355","2020-06-05T18:11:54.000Z",,,,,,,,,,,,,,,
@@ -3502,7 +3503,14 @@ Sun: 12pm - 5pm
 "Be In Good Health  (Juice and Smoothies)",2210,,"(929) 206-5414","https://www.facebook.com/beingoodhealthllc/?ref=py_c","Laurelton","Restaurants, Bars, Cafes & Bakeries",,,"227-17 Merrick Blvd",,"Juice Bar,Black Owned","11413","2020-06-05T18:35:33.000Z","OPEN",,,,,,,,,,,,,true,"instagram.com/beingoodhealth_"
 "Only Rare NYC (Ice Cream)",2211,,,"https://www.facebook.com/pages/Only-Rare-NYC/359236181617442","Laurelton","Restaurants, Bars, Cafes & Bakeries",,,"229-13 Merrick Blvd",,"Ice Cream,Black Owned","11413","2020-06-05T18:35:33.000Z","OPEN",,,,,,,,,,,,,true,"instagram.com/onlyrarenyc"
 "Spring Gardens Restaurant",2212,,"(718) 341-4480","https://www.facebook.com/pages/Spring-Gardens-Jamaican-Restaurant/115656591789457","Jamaica","Restaurants, Bars, Cafes & Bakeries",,,"135-29 Springfield Blvd",,"Restaurant,Black Owned","11413","2020-06-05T18:35:33.000Z","OPEN",,,,,,,,,,,,,true,"instagram.com/springgardensrestaurant"
-"Milk and Pull",2213,,"(718) 821-1155","https://www.milkandpull.com","Ridgewood","Restaurants, Bars, Cafes & Bakeries",,," 778 Seneca Ave",,"Restaurant,Black Owned","11385","2020-06-05T18:35:33.000Z","OPEN",,,,,,,,,,,,,true,"instagram.com/milkandpull"
+"Milk and Pull",2213,,"(718) 821-1155","https://www.milkandpull.com","Ridgewood","Restaurants, Bars, Cafes & Bakeries",,," 778 Seneca Ave","3 NYC locations
+778 Seneca Avenue, Ridgewood 
+181 Irving Avenue, Brooklyn 
+307 Malcolm X Blvd, Brooklyn 
+","Restaurant,Black Owned,Coffee Shop,Sandwich","11385","2020-06-05T18:35:33.000Z","OPEN",,"Open daily 8am - 2pm
+⠀
+
+",,,,,,,,,,,true,"instagram.com/milkandpull"
 "Blaze 718",2214,,"(718) 480-6671","https://www.facebook.com/Blaze-718-Jamaican-American-Restaurant-149854572339251/","Jamaica","Restaurants, Bars, Cafes & Bakeries",,,"109-10 Guy R Brewer Blvd",,"Restaurant,Black Owned","11433","2020-06-05T18:35:33.000Z","OPEN",,,,,,,,,,,,,true,"instagram.com/blaze718restaurant"
 "Sek'end Sun",2215,,"(917) 832-6414","https://www.sekendsun.com","Astoria","Restaurants, Bars, Cafes & Bakeries",,,"32-11 Broadway",,"Restaurant,Black Owned","11106","2020-06-05T18:35:33.000Z","OPEN",,,,,,,,,,,,,true,"instagram.com/sekendsun"
 "Zoe Shack",2216,,"(929) 405-0112","https://zoeshack.business.site","Queens Village","Restaurants, Bars, Cafes & Bakeries",,,"211-47 Jamaica Ave",,"Restaurant,Black Owned","11428","2020-06-05T18:35:33.000Z","OPEN",,,,,,,,,,,,,true,"instagram.com/zoeshacknyc"
