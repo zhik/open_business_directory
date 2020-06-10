@@ -1570,8 +1570,10 @@
 
   [1]: http://www.obagrill.com
 ","restaurant,food","11375","2020-05-29T17:32:14.000Z",,,,,,,,,,,,,,,
-"Singas Famous Pizza",1242,"2020-04-17T04:00:00.000Z","(718) 805-4700","http://singaspizzas.com/","Kew Gardens","Restaurants, Bars, Cafes & Bakeries",40.708765,-73.830369,"8125 Lefferts Blvd #1728, Kew Gardens","Open for takeout and delivery, call for hours (718)805-4700
-","meal_delivery,restaurant,food","11415","2020-05-29T17:32:14.000Z",,,,,,,,,,,,,,,
+"Singas Famous Pizza",1242,"2020-06-10T04:00:00.000Z","(718) 805-4700","https://singasgrill.ordersnapp.com/home?external_store_id=549","Kew Gardens","Restaurants",40.708765,-73.830369,"8125 Lefferts Blvd #1728, Kew Gardens","
+","Pizza","11415","2020-05-29T17:32:14.000Z","Open",,"- Sun - Thur 11AM-9PM
+- Friday - Sat 11AM-10PM
+","Yes","Yes",,,,,,,,,,
 "Village Diner",1243,"2020-04-17T04:00:00.000Z","(718) 850-3787","http://www.villagedinertogo.com/","Kew Gardens","Restaurants, Bars, Cafes & Bakeries",40.707821,-73.831261,"1730, 8174 Lefferts Blvd, Kew Gardens","Open for takeout and delivery, (718) 850-3787
 ","meal_delivery,restaurant,food","11415","2020-05-29T17:32:14.000Z",,,,,,,,,,,,,,,
 "Numero 28",1244,"2020-04-17T04:00:00.000Z","(718) 544-4600","http://www.numero28.com/","Forest Hills","Restaurants, Bars, Cafes & Bakeries",40.720854,-73.845494,"107-12 70th Rd, Queens","Open, call for hours 718-544-4600
@@ -2259,8 +2261,9 @@
 ","bar,restaurant,food","11101","2020-05-29T17:32:14.000Z",,,,,,,,,,,,,,,
 "Teriyaki 365",1558,,"(718) 361-0365","http://www.teriyaki365.com/","Hunters Point-Sunnyside-West Maspeth","Restaurants, Bars, Cafes & Bakeries",40.752106,-73.921464,"42-02 Northern Blvd, Long Island City","Pickup & Delivery (718) 361-0365
 ","restaurant,food","11101","2020-05-29T17:32:14.000Z",,,,,,,,,,,,,,,
-"Singas Famous Pizza",1559,,"(718) 392-7724","http://singaspizzas.com/","Hunters Point-Sunnyside-West Maspeth","Restaurants, Bars, Cafes & Bakeries",40.752106,-73.921464,"4202 Northern Blvd, Long Island City","Pickup & Delivery 7183927724
-","meal_delivery,restaurant,food","11101","2020-05-29T17:32:14.000Z",,,,,,,,,,,,,,,
+"Singas Famous Pizza",1559,"2020-06-10T19:56:00.000Z","(718) 392-7724","https://singasgrill.ordersnapp.com/home?external_store_id=412","Hunters Point-Sunnyside-West Maspeth","Restaurants",40.752106,-73.921464,"4202 Northern Blvd, Long Island City","
+","Pizza","11101","2020-05-29T17:32:14.000Z","Open",,"11AM-10PM
+","Yes","Yes",,,,,,,,,,
 "Square Wine & Spirits",1560,,"(718) 707-9911","https://www.squarewine.com/","Hunters Point-Sunnyside-West Maspeth","Restaurants, Bars, Cafes & Bakeries",40.746065,-73.944301,"24-20 Jackson Ave, Queens","Pickup & Delivery 718- 707-9911 20% discount available for all first orders on the app. Visit <https://www.squarewine.com/sign-up>
 ","liquor_store,food","11101","2020-05-29T17:32:14.000Z",,,,,,,,,,,,,,,
 "Market Pantry",1561,,"(718) 606-2299","http://www.pantryeatery.com/","Hunters Point-Sunnyside-West Maspeth","Restaurants, Bars, Cafes & Bakeries",40.746065,-73.944301,"24-20 Jackson Ave, Long Island City","Pickup & Delivery (718) 606-2299
@@ -2391,8 +2394,9 @@
 ","restaurant,food","11354","2020-05-29T17:32:14.000Z",,,,,,,,,,,,,,,
 "E Noodle House",1623,,"(718) 539-8882","http://www.enoodle.nyc/","Queensboro Hill","Restaurants, Bars, Cafes & Bakeries",40.740476,-73.815323,"59-08 Kissena Blvd, Queens","Pickup & Delivery (718) 539-8882
 ","restaurant,food","11355","2020-05-29T17:32:14.000Z",,,,,,,,,,,,,,,
-"Singas Pizza",1624,,"(718) 463-4343","http://singaspizzas.com/","Flushing","Restaurants, Bars, Cafes & Bakeries",40.754168,-73.822776,"43-69 Kissena Blvd, Flushing","Pickup & Delivery (718) 463-4343
-","meal_delivery,restaurant,food","11355","2020-05-29T17:32:14.000Z",,,,,,,,,,,,,,,
+"Singas Pizza",1624,"2020-06-10T19:56:00.000Z","(718) 463-4343","https://singasgrill.ordersnapp.com/home?external_store_id=572","Flushing","Restaurants",40.754168,-73.822776,"43-69 Kissena Blvd, Flushing","
+","Pizza","11355","2020-05-29T17:32:14.000Z","Open",,"11AM - 9:45PM	
+","Yes","Yes",,,,,,,,,,
 "O Mani",1625,,"(718) 225-2500","http://www.omanikoreanbbq.com/","Ft. Totten-Bay Terrace-Clearview","Restaurants, Bars, Cafes & Bakeries",40.78071,-73.801603,"160-42 Willets Point Blvd, Whitestone","Pickup & Delivery (718) 225-2500
 ","restaurant,food","11357","2020-05-29T17:32:14.000Z",,,,,,,,,,,,,,,
 "Magna",1626,,"(718) 445-3352","http://www.magnarestaurant.com/","Flushing","Restaurants, Bars, Cafes & Bakeries",40.76365,-73.83106,"35-25 Farrington St, Flushing","Pickup & Delivery (718) 445-3352
