@@ -81,9 +81,9 @@
 ",,"11104","2020-05-29T17:32:14.000Z","Closed",,,,,,,,,,,,,,,,
 "Sunnyside Laundromat",657,,"(718) 729-2077",,"Hunters Point-Sunnyside-West Maspeth","Laundromat & Cleaners",40.740121,-73.925418,"3937 48th Ave, Sunnyside","
 ",,"11104","2020-05-29T17:32:14.000Z","Closed",,,,,,,,,,,,,,,,
-"14th Laundry",658,"2020-06-24T04:00:00.000Z","(718) 726-0724","http://14thlaundry.com/","Old Astoria","Laundromat & Cleaners",40.769143,-73.931045,"3067 14th St, Astoria","
-",,"11102","2020-05-29T17:32:14.000Z","Open",,,"7am-9pm daily	
-",,,,,,,,,,,,,
+"14th Laundry",658,"2020-06-24T04:00:00.000Z","(718) 726-0724","http://14thlaundry.com/","Long Island City","Laundromat & Cleaners",40.769143,-73.931045,"30-67 14th Street, Long Island City, NY 11361","
+","Laundromat","11102","2020-05-29T17:32:14.000Z","Open",,"http://14thlaundry.com/","7am-9pm daily	
+",,"Yes",,,,,,,,,,,
 "Lemon Laundry",659,"2020-04-12T04:00:00.000Z","(917) 832-7407","http://www.lemonlaundromat.com/","Woodside","Laundromat & Cleaners",40.747444,-73.903109,"60-11 39th Ave, Queens","9am-5pm daily, drop-off only, wash and dry only (no folding) <http://lemonlaundromat.com>
 ",,"11377","2020-05-29T17:32:14.000Z",,,,,,,,,,,,,,,,,
 "Eleven Laundromat",660,"2020-04-16T04:00:00.000Z",,,"Woodside","Laundromat & Cleaners",40.744034,-73.906844,"41-19 58th St, Woodside","Closed at this time
@@ -495,8 +495,15 @@
 
   [1]: http://www.samiskababhouse.com/
 ","restaurant,food","11106","2020-05-29T17:32:14.000Z",,,,,,,,,,,,,,,,,
-"Senso Unico",831,"2020-06-25T04:00:00.000Z","(347) 662-6101","http://www.sensounicorestaurant.com/","Hunters Point-Sunnyside-West Maspeth","Restaurants, Bars, Cafes & Bakeries",40.741299,-73.921649,"4304 47th Ave, Sunnyside","
-","restaurant,food","11104","2020-05-29T17:32:14.000Z","Open",,,,,,,,,"www.instagram.com/sensounicorestaurant",,,,"Yes",,,
+"Senso Unico",831,"2020-06-25T04:00:00.000Z","(347) 662-6101","http://www.sensounicorestaurant.com/","Hunters Point-Sunnyside-West Maspeth","Restaurants, Bars, Cafes & Bakeries",40.741299,-73.921649,"4304 47th Ave, Sunnyside","reservations available 
+ email advised
+ sensounicorestaurant@gmail.com
+","restaurant,food,Italian","11104","2020-05-29T17:32:14.000Z","Open",,,"Tue-Thu 4-10pm
+ Fri 4-11
+ Sat 12-11
+ Sun 12-10
+ Closed Mon
+","Yes","Yes",,,,"www.instagram.com/sensounicorestaurant","sensounicorestaurant@gmail.com",,,"Yes",,,
 "Sofra Mediterranean Grill",832,"2020-04-13T04:00:00.000Z","(917) 396-4777","https://www.soframediterraneangrillmenu.com/","Hunters Point-Sunnyside-West Maspeth","Restaurants, Bars, Cafes & Bakeries",40.742788,-73.918953,"45-08 46th St, Sunnyside","917-396-4777 TAKEOUT & DELIVERY <https://www.soframediterraneangrillmenu.com/>
 ","restaurant,food","11104","2020-05-29T17:32:14.000Z",,,,,,,,,,,,,,,,,
 "Souk El-Shater",833,"2020-04-13T04:00:00.000Z","(718) 392-2702","https://www.facebook.com/Souk-El-Shater-219342458103898/","Hunters Point-Sunnyside-West Maspeth","Restaurants, Bars, Cafes & Bakeries",40.743739,-73.921162,"43-03 Queens Blvd, Queens","718-786-1800 TAKEOUT & DELIVERY Thanks for feeding our essential workers! <https://www.instagram.com/p/B-umurMjAuu/>
@@ -3298,12 +3305,12 @@ We have partnered with World Central Kitchen and we have been making meals for h
 "Tony's Bicycles",2030,"2020-06-03T04:00:00.000Z","(718) 278-3355",,"Astoria","Bicycle Shops",40.773101,-73.910766,"35-01 23rd Ave, Astoria, NY 11105",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","Open",,"Katelyn","Mon - Sat: 10am - 7pm
 Sun: 10am - 6pm
 ",,,,,,,,,,,,,
-"Roberts Bicycles ",2031,"2020-06-07T04:00:00.000Z","(718) 353-5432","http://www.robertsbicycles.net/Contact_Us.htm","Auburndale / Bayside","Bicycle Shops",40.767089,-73.78991,"33-13 Francis Lewis Blvd, Flushing, NY 11358","Please wear a mask or face covering inside the store. If you do not we will serve you outside.
+"Roberts Bicycles ",2031,"2020-06-25T04:00:00.000Z","(718) 353-5432","http://www.robertsbicycles.net/Contact_Us.htm","Auburndale / Bayside","Bicycle Shops",40.767089,-73.78991,"33-13 Francis Lewis Blvd, Flushing, NY 11358","Please wear a mask or face covering inside the store. If you do not we will serve you outside.
 
 Only 2 people allowed in the store a time.
 Line closes 45 minutes prior to closing.
 ","bicycle_store,Bike Shops","11358","2020-06-03T23:20:06.000Z","Open",,"Zhi","Mon Wed Fri: CLOSED
-Tue Thu Sat: 10am-4:30 Sun 11:30-4pm
+Tue Thu Sat: 10am-4:00 Sun 11:30-4pm (Line closed 45 minutes prior)
 ",,,,,,,,,,,,,
 "LC Bicycle Repair",2032,"2020-06-03T04:00:00.000Z","(347) 981-9040",,"Corona","Bicycle Shops",40.753212,-73.865385,"35-45 102 St, Corona, NY 11368",,"bicycle_store,Bike Shops",,"2020-06-03T23:20:06.000Z","Open",,"Katelyn","1030am - 8pm everyday
 ",,,,,,,,,,,,,
